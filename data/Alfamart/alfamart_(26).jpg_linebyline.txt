@@ -1,0 +1,21 @@
+ALFAMART CIWARUGA
+081294658759
+CV GEZANK PRODUCTION
+L. TERUSAN GEGER KALONG HILIR NO.37.
+NPWP 02.761.044.3-421.000
+Bon N177-504-1704TUY5 Kasir NENG AME
+<namaItem>KP BRANDING M<namaItem> 1 200 <subtotalItem>200</subtotalItem>
+<namaItem>MYROTI MN KJ80G<namaItem> 1 6,000 <subtotalItem>6,000</subtotalItem>
+Disc. 500
+<namaItem>FF PF CN Z25ML</namaItem> 4 5,700 <subtotalItem>22,800</subtotalItem>
+Disc. -5,700
+Total Item 3 29,000
+Total Disc. 6,200
+Total Belanja <totalPembayaran>22,800</totalPembayaran>
+Tunai 100,000
+Kembalian 77,200
+PPN 2,636
+Tgl. 17-04-2019 11:00:55 V.2019.1.0
++-
+Kritik& Saran Hub. Telp. 1500959
+Sms 0817111234 www.alfamartku.com

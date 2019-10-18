@@ -1,0 +1,16 @@
+on N177-401-2204V8VZ Kasir : 0K! RIVA
+<namaItem>Y ROTI CNA235G</namaItem> 1 14,000 <subtotalItem>14,000</subtotalItem>
+lisc.
+-1,000
+<namaItem>ROMINA BB 15G</namaItem> 1 6,100 <subtotalItem>6,100</subtotalItem>
+<namaItem>P BRANDING M</namaItem> 1 200 <subtotalItem>200</subtotalItem>
+Total Item 3 20, 300
+Total Disc. 1,000
+Total Belanja <totalPembayaran>19,300</totalPembayaran>
+Tunai 20,000
+Kembalian 700
+PN (
+1,845)
+gl. 22-04-2019 18:43:29 V.2019.1.0
+Kritik & Saran Hub. Telp. 1500959
+Sms 0817111234 www,alfamartku.com

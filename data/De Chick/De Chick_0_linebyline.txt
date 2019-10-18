@@ -1,0 +1,11 @@
+DE CHICK
+Ftad Chickens CHICKEN&HOTWING
+J TATA SURYA NO 23
+parkir gratis
+#175099 25/04/2019 13:41
+02 CLERK02 000000
+1x 14000 Rp. <subtotalItem>14000</subtotalItem>
+<namaItem>Chick BBQ bsr</namaItem>
+2x 3500 Rp. <subtotalItem>7000</subtotalItem>
+<namaItem>Perkedel</namaItem>
+CASH RP. <totalPembayaran>21000</totalPembayaran>

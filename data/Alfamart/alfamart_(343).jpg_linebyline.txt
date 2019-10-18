@@ -1,0 +1,14 @@
+Bon N177-505-210485X3 Kasir : RESTI FI
+<namaItem>MM NB STR 300ML</namaItem> 1 7,300 <subtotalItem>7,300</subtotalItem>
+Disc. -800
+<namaItem>TOP X LRG 38G</namaItem> 1 4,200 <subtotalItem>4,200</subtotalItem>
+<namaItem>ULTRA FC 250ML</namaItem> 1 6,300 <subtotalItem>6,300</subtotalItem>
+Total tem 3 17,800
+Total Disc. 800
+Total Belanja <totalPembayaran>17,000</totalPembayaran>
+Tunai 17,000
+Kenbalian
+) Ndd 1,591)
+Tgl. 21-04-2019 10:23:17 V.2019.1,0
+Kritik&Saran Hub. Telp. 1500959
+Sus 0817111234 ww. alfanartku.com

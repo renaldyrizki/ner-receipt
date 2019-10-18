@@ -1,0 +1,18 @@
+Beard Papa
+Husein Sastranegara Out
+BANDUNG
+Check 116
+Pax: 1 OP: Shift 2 Shift 2
+POS Title: CASH1 POS: POS001
+Rept# : A1900001 1922
+03/04/2019 16:31
+DINE IN
+3 <namaItem>THAI TEA PUFF</namaItem> <subtotalItem>65, 455</subtotalItem>
+PB 1 SUBTOTAL 65, 455
+6, 545
+TOTAL <totalPembayaran>72, O00</totalPembayaran>
+Total item:1 Total Qty:3
+CASH 72, 000
+Closed Bill
+-- 03/04/2019 16:31-
+Thank you for your purchase

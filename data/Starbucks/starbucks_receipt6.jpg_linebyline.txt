@@ -1,0 +1,25 @@
+AM
+STARBUCKS
+BANDUNG CIWALK MALL
+022-2061102
+Feedback@starbucks.co.id
+Al betau
+[Bill Nunberl [8000041001-01052019-0016691
+18002045 Camellia
+CHK 1669
+To Go
+1 <namaItem>ICED GREEN TEA LATTE. TALL</namaItem> <subtotalItem>50000</subtotalItem>
+1 <namaItem>MOCHA FRAPPUCCINO BLENDED COFFEE TALL</namaItem> <subtotalItem>48000</subtotalItem>
+DEBIT NON BCA Ap101,000
+Subtotal Rp101,000
+Total <totalPembayaran>Rp101,000</totalPembayaran>
+Change Due RpO
+Check Closed --
+1 May'19 12:53 PM
+A1l Price are inclusive Tax 10%
+PT. Sari Coffee Indonesia
+NPWP : 02.107.429.9-073.000
+Gd. Sahid Sudinman Center Lt. 27
+Jl. Jend. Sudirman Kav. 86 Karet Tengsi
+Tanah Abang - Takarta Pusat
+Cs Scanned with CamScanner AAM

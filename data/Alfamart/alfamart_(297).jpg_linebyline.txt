@@ -1,0 +1,24 @@
+ALFAMART CIWARUGA
+81294658759
+CV OEZANK PRODUCT ION
+JL. TERUSAN GEGER KALONG HILIR NO.37.
+NPWP: 02.761.044.3-421.000
+Bon N177-505-2604C6K8 Kasir RESTI FI
+<namaItem>CIMORY STR200ML</namaItem> 1 5,000 <subtotalItem>5,000</subtotalItem>
+Disc. -500
+<namaItem>YY GRP 175ML</namaItem> 1 6.500 <subtotalItem>6,500</subtotalItem>
+<namaItem>AQUA 600ML</namaItem> 1 3,500 <subtotalItem>3,500</subtotalItem>
+<namaItem>DELIMA MYK 1L</namaItem> 1 11,000 <subtotalItem>11,000</subtotalItem>
+Total Item 4 26,000
+Total Disc. 500
+Totai Belanja <totalPembayaran>25,500</totalPembayaran>
+Tunai 25,500
+0
+Kembalian
+PPN ( 2,364)
+Tgl. 26-04-2019 18:26:52 V.2019.1.0
+Member REST! FITRIA
+POIN KARTU PONTA ANDA 5339
+Kritik& Saran Hub. Telp. 1500959
+CS Scanned with
+Sirss 0817111234 www alfamartku.com CamScanner

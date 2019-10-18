@@ -1,0 +1,17 @@
+BEC BANDUNG
+Purmaw annan 13-15
+Sumurbandu ng Bandung
+Telp 022
+EAT IN
+<namaItem>Lychee Float</namaItem>
+5,909
+Sub Total 5,g09
+Dasar Perigeraan Pa ik
+P.Rest 0
+Total <totalPembayaran>6,500</totalPembayaran>
+Cash 7,200
+Kembali 500
+Terima Kisih
+1 Items, 05102018 20434 15:47. 34
+SANDY, POS #002, 05-10-2018
+DI karir.kfcu.com

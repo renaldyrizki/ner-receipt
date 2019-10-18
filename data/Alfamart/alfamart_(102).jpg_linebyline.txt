@@ -1,0 +1,11 @@
+Bon B017-304-06045638 Kasir LISNA RA
+<namaItem>SQ CK CSH 100G</namaItem> 1 26,000 <subtotalItem>26.000</subtotalItem>
+Disc. -5,500
+Total Iten 1 26,000
+Totai Disc. 5.500
+Total Belanja <totalPembayaran>20,500</totalPembayaran>
+Tunai 21,000
+Kenbalian 500
+pPN ( 2,118)
+Tgl. 06-04-2019 17:25:00 V.2019.1.0
+KritikESaran:1500959, SMS: 081711234

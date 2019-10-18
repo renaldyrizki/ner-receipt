@@ -1,0 +1,12 @@
+JL. TERUSAN GEGER KALG dILin NU.3l.
+NPHP 02.761.044.3-421.000
+Bon N177-E15-26043M5Z Kasir : RESTI FI
+<namaItem>KP BRANDING M</namaItem> 200 <subtotalItem>200</subtotalItem>
+<namaItem>DELIMA MYK 1L</namaItem> 1 11,000 <subtotalItem>11,000</subtotalItem>
+Total Item 2 <totalPembayaran>11,200</totalPembayaran>
+Tunai 1,200
+Kenbal ian 0
+PPN 1,018)
+Tgi. 26-04-2019 18:29:10 V.2019.1.0
+Kritik& Saran Hub. Telp. 1500959
+Sus 0817111234 www.alfamartku.coam

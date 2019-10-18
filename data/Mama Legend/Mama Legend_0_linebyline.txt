@@ -1,0 +1,16 @@
+JIn Gegerkalong Girang No 83, Bandung, Jawa Bara Mama Legend
+t, 40135
+081224554353
+07 Apr 2019 19:20
+Receipt Number 3B0IA4
+Table Name 6B
+Collected By Iman Hidayatul
+<namaItem>sapi lada hitam</namaItem> 1 Rp <subtotalItem>25.000</subtotalItem>
+<namaItem>fu yung hai</namaItem> 1 Rp <subtotalItem>16.000</subtotalItem>
+level 3
+<namaItem>nasi</namaItem> 1 Rp <subtotalItem>4.000</subtotalItem>
+<namaItem>lemon squash</namaItem> 2 Rp <subtotalItem>20.000</subtotalItem>
+Subtotal Rp 65.000
+Total Rp <totalPembayaran>65.000</totalPembayaran>
+Cash Change Rp 100.000
+Rp 35.000

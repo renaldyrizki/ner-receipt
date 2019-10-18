@@ -1,0 +1,23 @@
+TOSERBA YOGYA
+JL.RAYA LEMBANG NO.416
+LEMBANG
+PT.AKUR PRATAMA
+NPWP:01.555.189.8-007.000
+JL.P.Revolusi 15 Jaktim
+http://ww.w.toserbayogya.com
+RP
+<namaItem>VASELINE HBL HLWT100</namaItem> <subtotalItem>12.450</subtotalItem>
+HEMATO7 Disc.20% 2.490-
+<namaItem>INDOMIE GRG RDG 91GR</namaItem> <subtotalItem>2.300</subtotalItem>
+<namaItem>PONDS FS WB SUN D 50</namaItem> <subtotalItem>18.950</subtotalItem>
+<namaItem>VASELINE HBL HLUT100</namaItem> <subtotalItem>12.450</subtotalItem>
+HEMATO7 Disc.20% 2.490-
+SUBTOTAL 41.170
+TOTAL <totalPembayaran>41.170</totalPembayaran>
+CASH 100.000
+CHANGE DUE 58.850
+TOTAL DIRECT DISC: 4.980
+NO.OF DISC. LINES: 2
+** TERIMA KASIH ATAS KUNJUNGAN ANDA **
+Utk barang kena pajak harga termasuk PPH
+Mc:11 82557 192413 02/04/19 08:40

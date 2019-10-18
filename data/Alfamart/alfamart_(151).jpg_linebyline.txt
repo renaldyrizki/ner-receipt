@@ -1,0 +1,23 @@
+ALFAMART CIHARUGA
+081294658759
+CV OEZANK PRODUCTION
+JL.TERUSAN GEGER KALONG HILIR NO.37.
+NPWP 02.761.044.3-421.000
+D UP LIK A T
+on N177-200-1604VMDZ Kasir : SIDIQ FA
+<namaItem>N ROTI CKT 58G</namaItem> 1 3,000 <subtotalItem>3,000</subtotalItem>
+<namaItem>OKOKRUNCH 32G</namaItem> 1 8,700 <subtotalItem>8,700</subtotalItem>
+<namaItem>Y ROTI SUSU58G</namaItem> 1 3,000 <subtotalItem>3,000</subtotalItem>
+<namaItem>WISTER BLK 80G</namaItem> 1 8,400 <subtotalItem>8,400</subtotalItem>
+isc. -1,500
+<namaItem>P BRANDING M</namaItem> 1 200 <subtotalItem>200</subtotalItem>
+otal Item 5 23,300
+otal Disc. 1,500
+otal Belanja <totalPembayaran>21,800</totalPembayaran>
+unai 21,800
+embalian 0
+PN 2,064)
+MA
+gl 16-04-2019 21:00:03 V.2019.1.0
+Kritik & Saran Hub. Telp. 1500959
+Sus 0817111234 www.alfanartku.com

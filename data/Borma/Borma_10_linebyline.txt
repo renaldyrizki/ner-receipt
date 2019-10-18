@@ -1,0 +1,31 @@
+PT. HARJA GUNATAMA LESTARI
+Komp. Setrasari Mall II Kav # A-7, Bandung
+02.244.696.7-441.000
+BORMA TOSERBA Cijerah
+Jl. Cijerah No# 90 -Bandung
+Phone: 022-6042177
+0902-2019 13:48:07
+POS06-janan1/554978
+<namaItem>NATURAL 1900</namaItem>
+<namaItem>FORMULA NANO CHARCOAL 160 GR</namaItem>
+<namaItem>SAZANAMI DOUBLE TAPE 1/2X12M</namaItem>
+1 x 15,500 <subtotalItem>15,500</subtotalItem>
+13,400
+i x 3,500 <subtotalItem>3,500</subtotalItem>
+i x 21,500 <subtotalItem>21,500</subtotalItem>
+i x 13,600 <subtotalItem>13,600</subtotalItem>
+15,100
+9,500
+i x <subtotalItem>13,400</subtotalItem>
+<namaItem>BOOK END HY-681004</subtotalItem>
+<namaItem>SGM ANANDA 1 150GR</subtotalItem>
+<namaItem>HIT NON STOP RF FLRL</subtotalItem>
+1 x <subtotalItem>15,100</subtotalItem>
+<namaItem>KENKO CORRECTION TAPE CT-310 S</subtotalItem>
+1 x <subtotalItem>9,500</subtotalItem>
+TOTAL <totalPembayaran>92,100</totalPembayaran>
+CASH 100,000
+7,900
+7 items
+KEMBALI
+Barang Kena Pajak Sudah Termasuk PPN

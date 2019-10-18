@@ -1,0 +1,27 @@
+ALFAMART CHHARUGA
+022-2001649
+NPHP 02.761.044.3 421.0
+Bon NI77-505-09053M96 Kasir LILY
+KANTONG PLS L
+Disc. -1
+*<namaItem>MY ROTI TAWAR</namaItem> 1 11,500 <subtotalItem>11,500</subtotalItem>
+<namaItem>MY ROTI MN KRM</namaItem> 6,000 <subtotalItem>6,000</subtotalItem>
+*<namaItem>DOWNY A.BAC 1L</namaItem> 1 30,500 <subtotalItem>30,500</subtotalItem>
+*<namaItem>AQUA AIR CLKEG</namaItem> 5,600 <subtotalItem>5,600</subtotalItem>
+*<namaItem>ULTRA UHT CKT</namaItem> 5.600 <subtotalItem>5,600</subtotalItem>
+-400
+Disc.
+Total Item 6 59,201
+401
+Total Disc.
+Total Belanja <totalPembayaran>58, 800</totalPembayaran>
+Tunai 100,000
+Kenbalian 41,200
+PPN ( 5,345)
+Tgl. 09-05-2017 14:08:10 V.2017.1.3
+Dptkn Hadiah dg Follow Line Alfame
+Upload kode unik di Line Survey Alfanart
+No. Transaksi Kode
+N17750500109053M96 8602610C
+Kritik & Saran Hub. Telp. 1500959
+Sms 0817111234 ww.alfanartku.com

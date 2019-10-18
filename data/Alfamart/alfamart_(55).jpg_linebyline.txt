@@ -1,0 +1,15 @@
+Bon B017-304-0604MKW3 Kasir LISNA RA
+KP BRANDING L 1 200 200
+GERY SH CHS110G 2 8,000 16,000
+Disc. 5,000
+<namaItem>INDOMIE GPRK85G</namaItem> 1 2,500 <subtotalItem>2,500</subtotalItem>
+<namaItem>GAGA JLP 75G</namaItem> 1 2.80C <subtotalItem>2,800</subtotalItem>
+<namaItem>NU MT 330ML</namaItem> 2 7,100 <subtotalItem>14,200</subtotalItem>
+Disc. -3,200
+Total Item 5 35.700
+Total Disc. 8,200
+Total Belanja <totalPembayaran>27,500</totalPembayaran>
+Tunai 50,500
+Kerbalian 23,000
+PPN 3,045)
+Tgl. 06-04-2019 17:26:58 V.2019.1.0

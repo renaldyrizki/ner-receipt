@@ -1,0 +1,18 @@
+ALFAMART CIWARUGA
+081294658759
+NPWP 02.761.044.3-421.0
+Bon N177-503-161183H5 Kasir : RIK
+KP BRANDING M
+Disc.
+<namaItem>PYTOS CHS 140G</namaItem> 1 12,200 <subtotalItem>12,200</subtotalItem>
+Disc. -3,300
+<namaItem>AQUA PET E0OM</namaItem> 1 3,300 <subtotalItem>3,300</subtotalItem>
+Total Iter 3 15,501
+Total Disc. 3,301
+Total Belanja <totalPembayaran>12,200</totalPembayaran>
+unai 100,00
+Kerbalian 87,800
+) Mdd 1,291)
+Tgl. 16-11-2018 16:43:54 V.2018.10.2
+it&Saran Hub. lelp, 5009
+Ses

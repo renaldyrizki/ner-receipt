@@ -1,0 +1,41 @@
+PT. LOTTE MART INDONESIA
+LOTTE LINGKAR LUAR SELATAN KAV 5-6
+CIRACAS AKARTA 13750
+Lotte Supermarket BEC
+Purnawarman No 10-15
+Telp: 20510044/087777504968
+PIN: 54F8C48E
+Email customer. service@lottemart.co. id
+NPWP: 02.902.700.0-007.000
+website: www. lottemart.co. id
+Kasir
+:001030073 BAYU NUGRAHA
+[REG] 2019-04-05 17:48 POS:2006-0396
+Nama Harga satuan Qty Harga Jual
+001 <namaItem>TEH PUCUK HARUM LES SGR350ML</namaItem>
+8996001600252 3,400
+4 <subtotalItem>13, 600</subtotalItem>
+B1904000481000020 900 4 -3, 600
+002 <namaItem>IP SHOPPING BAG SIZE M (DJ)</namaItem>
+0410993840000 200
+1 <subtotalItem>200</subtotalItem>
+003 <namaItem>LOTTE MART DONASI EA</namaItem>
+0410558210002 300
+1 <subtotalItem>300</subtotalItem>
+TOTAL SUM 14,100
+# ##**** ######
+DISCOUNT 3,600
+TOTAL HARUS DIBAYAR: 10,500
+###
+###
+##** #####
+Cash <totalPembayaran>10, 500</totalPembayaran>
+RECEIVED 50,000
+CHANGE 39,500
+##******##**###**#*******####
+TOTAL ITEM :3 TOTAL QTY 6
+702190405200603960000105
+Dapatkan Cash Back Point 0,5%
+Khusus Pengguna Lotte Member
+Gratis Hanya Menunjukkan Kartu Identitas
+Hubungi Pusat Informasi Kami

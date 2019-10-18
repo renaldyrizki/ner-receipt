@@ -1,0 +1,39 @@
+Subarg
+4 Cto iskandardinala No 108K
+Subang
+Tep 0260 41602
+NO NPHP 01.306.783 O-092.000
+EAT IN
+Ite yg kena Pajak. Restaurant
+9.090
+2 <namaItem>Perkede!</namaItem> <subtotalItem>12 726</subtotalItem>
+<namaItem>Pudding</namaItem> <subtotalItem>12 26</subtotalItem>
+<namaItem>OL KS Star 1 HC</namaItem> <subtotalItem>40 000</subtotalItem>
+<namaItem>MOCca Float</namaItem>
+Item y kea PPN
+1 <namaItem>CD Kompilaout WK</namaItem> <subtotalItem>35 000</subtotalItem>
+Sut Total 109,542
+Dasar Pengenaar Pajak 109.542
+Peubulatan
+P.Pest 10 7,455
+PEN 10 3.500
+Tota <totalPembayaran>120,500</totalPembayaran>
+Cash 150 903
+Kembal 29.5U0
+Terima Kasih
+6 Items, 20032019-35135 6:53:27
+FITRI, POSCO3, 20-03-2019
+DI karir.kfcku com
+1xxxxKxxxEx3Ex
+KUNJUNGI HH KFCKU, COM/FEEDEACK DAN
+ISI SURVEY KEPIASAN ANDA
+OAPATKAN FREE DRUMSTICK/HINGER
+YANG DI SERTAI DENGAN PEMBELIAN
+BERTKLTHYA DI SERAI KFC YG SAMA
+G/ TE HANYA UNTUK EAT IN/ TAKE A
+WAY
+KDDE UAL IDAS
+STORE NO: 314
+SURVEY NO O0335135
+TERIMA KASIH
+ATAS PARTISIPAS N A

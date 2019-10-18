@@ -1,0 +1,29 @@
+Ang: 0 Wingz
+J.Purvakarta No.29
+Telp :022-7208732
+No Bil!:BI0082 2549
+15 03/2019 12:12:35 Meja 28 Cecep
+0ty unit Item Hrg
+7 POR <namaItem>POTATO JUPO</namaItem> <subtotalItem>14,000</subtotalItem>
+1 POR <namaItem>NUTELLA BANANA CREPES</namaItem> <subtotalItem>19,000</subtotalItem>
+1 POR <namaItem>C.1 RICE</namaItem> <subtotalItem>26.000</subtotalItem>
+2 POR <namaItem>C 1 B0MB RICE</namaItem> <subtotalItem>59,000</subtotalItem>
+1 POR <namaItem>MOZARELLA STICK</namaItem> <subtotalItem>18,000</subtotalItem>
+1 POR <namaItem>ONION RING</namaItem> <subtotalItem>11,000</subtotalItem>
+2 POR <namaItem>c.2 RICE</namaItem> <subtotalItem>69,000</subtotalItem>
+1 POR <namaItem>C.2 BOMB RICE</namaItem> <subtotalItem>39,000</subtotalItem>
+1 POR <namaItem>MINERAL WATER</namaItem> <subtotalItem>6,000</subtotalItem>
+1 POR <namaItem>TUNA FREID RICE</namaItem> <subtotalItem>26,000</subtotalItem>
+SUBTOTAL 286,000
+DISC
+SERVICE CHARGE 0
+PJK 10%
+SURCHARGE 0
+TOTAL
+<totalPembayaran>286,000</totalPembayaran>
+DP
+SISA 286,000
+TERIMA 300,C00
+KEMBALI 14,000
+:Terima Kasih atas kunjungan anda: :
+WINGZOWINGZ

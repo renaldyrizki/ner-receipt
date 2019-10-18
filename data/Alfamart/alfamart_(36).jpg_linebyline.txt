@@ -1,0 +1,18 @@
+ALFAMART CIWARUGA
+OR1294658759
+NPHP 02.761.044.3-421.0
+Bon N177-406-0301217X Kasir OK
+KP BRANDING S
+Disc. -1
+<namaItem>CPTON EXT CLN</namaItem> 3.500 <subtotalItem>3.500</subtotalItem>
+<namaItem>DELFI CSW 60G</namaItem> 1 15,00 <subtotalItem>15,600</subtotalItem>
+Disc. -6,100
+Total Iten 3 19,100
+Total Disc. 6,101
+Total Belanja <totalPembayaran>13,000</totalPembayaran>
+Tunai 20,000
+Kenbalian 7,000
+PPN 1,545)
+Tgl. 03-01-2019 7:1115 V2018.10.6
+Ketik Saran Hub. Telp. 1500959
+Ses 224 al fanartku, co

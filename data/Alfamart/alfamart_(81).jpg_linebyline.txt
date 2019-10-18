@@ -1,0 +1,19 @@
+ALFAMART CIHARUGA
+081294658759
+CV OFZANK PRODUCTION
+JL.TERUSAN GEGER KALONG HILIR NO.37.
+NPWP 02.761.044.3-421.000
+Bon N177-504-210442X3 Kasir NENG AME
+<namaItem>KP BRANDING S</namaItem> 1 200 <subtotalItem>200</subtotalItem>
+<namaItem>SARIMI2 TERI 125</namaItem> 1 3,300 <subtotalItem>3,300</subtotalItem>
+<namaItem>INDOMIE KOYA75G</namaItem> 1 2,600 <subtotalItem>2,600</subtotalItem>
+<namaItem>SEGYE BF 114G</namaItem> 1 9,800 <subtotalItem>9,800</subtotalItem>
+<namaItem>SUPERMI ST 100G</namaItem> 1 2,500 <subtotalItem>2,500</subtotalItem>
+Total Item 5 <totalPembayaran>18,400</totalPembayaran>
+Tunai
+20,000
+Kerrbalian 1,600
+PPN ( 1,673)
+Tgl. 21-04-2019 21:08:25 V.2019.1.0
+Kritik & Saran Hub. Telp. 1500959
+Sns 0817111234 www.alfanartk

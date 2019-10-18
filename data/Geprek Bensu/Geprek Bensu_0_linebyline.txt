@@ -1,0 +1,19 @@
+OEPREX
+BENSU
+Geprek Bensu Semarang
+Jalan Puri Anjasmo ro Raya No. 29
+Semarang
+No. order: 9098
+ode struk: 8X54VSLQYD#WD9
+angga 1 Mei 2019 15:23:03
+hasir: Kasir 1 Semarang
+<namaItem>Avam Geprek Bensu GRAB</namaItem> x 1 <subtotalItem>15.000</subtotalItem>
+Harga (15.000)
+Level 10 (0)
+Subtotal 15.000
+PB1 (10%) 7-500
+Total <totalPembayaran>16.500</totalPembayaran>
+Tunai 16.500
+Kembali
+Terima Kasin
+LUNAS**

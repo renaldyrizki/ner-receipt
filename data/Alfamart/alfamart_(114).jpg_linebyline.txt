@@ -1,0 +1,17 @@
+AL RT CIWARUGA
+uo1294658759
+CV OEZANK PRODUCTION
+JL.TERUSAN GEGER KALONG HILIR NO.37
+NPWP 02.761.044.3-421.000
+Bon N177-504-2104UXDX Kasir : NENG AME
+<namaItem>KP BRANDING L</namaItem> 1 200 <subtotalItem>200</subtotalItem>
+<namaItem>MR HOT BBQ 140G</namaItem> 1 10,600 <subtotalItem>10,600</subtotalItem>
+Disc. -100
+<namaItem>KIMBO RD SP 69G</namaItem> 1 6,000 <subtotalItem>6,000</subtotalItem>
+Total tem 3 16,800
+Total Disc. 100
+Total Belanja <totalPembayaran>16,700</totalPembayaran>
+Tunai 83,300
+100,000
+PPN ( 1,518)
+Tgl. 21-04-2019 18:55:52 V.2019.1.0

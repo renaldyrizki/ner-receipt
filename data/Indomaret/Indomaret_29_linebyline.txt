@@ -1,0 +1,27 @@
+PINDOMARCO PRIMA
+JL ANCOL 8.10 ANCO
+BARAT JAKAPTAUITA
+NPWP 01 337 38-092
+Fnaemaret
+SILINANGI 498 08967059725
+JL SILINWANGI 498 KALIBANTENG KIDUL,SEMARAN
+G BARAT, SEMARANG, SEMARANG, 50149
+29.04.19-22:58 2.1.43 1415/ADI/02
+<namaItem>LAY'S NORI ST # D68</namaItem> 0700 <subtotalItem>10,700</subtotalItem>
+<namaItem>DJI SAM SOE MG MLD16</namaItem> 1G000 <subtotalItem>16,00</subtotalItem>
+<namaItem>ICHTN THAI M.TEA 310</namaItem> 300 <subtotalItem>7.500</subtotalItem>
+<namaItem>ESSE BERRY POP 16'S</namaItem> 19500 <subtotalItem>19,500</subtotalItem>
+<namaItem>BUAVITA ORANGE SL250</namaItem> 7000 <subtotalItem>7,000</subtotalItem>
+<namaItem>PANDA GRASS JELY310</namaItem> 4500 <subtotalItem>4,500</subtotalItem>
+<namaItem>PLASTIK BSR</namaItem> 1 <subtotalItem>1</subtotalItem>
+DISKON :
+(1)
+HARGA JUAL : 65,200
+TOTAL <totalPembayaran>65,200</totalPembayaran>
+TUNAI: 100.000
+PPN KEMBALI 34,800
+: DPP= 27,000 PPN= 2,700
+CUKAI DPP= 35,500
+LAYANAN KONSUMEN SMS 0811 1500 280
+CALL 1500 280 KONTAKCINDOMARET.CO ID
+INFO PROMO ADD $INDGMARET DI LINE

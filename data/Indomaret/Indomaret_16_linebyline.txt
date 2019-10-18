@@ -1,0 +1,23 @@
+BARAT. ..AkARTA UTARA
+HARUGA JAYA BANDUNG BAR 08891947107
+JL.HARUGA JAYA NO.35, BANDUNG BARAT, 40559
+22.02.19-13:56 2.1.37 935115/DEWI PU/01
+<namaItem>YOU C1000 ORG NTR500</namaItem> 1 7800 <subtotalItem>7,800</subtotalItem>
+<namaItem>YOU C..0 DRKORGI 40</namaItem> 2 7200 <subtotalItem>14.40(</subtotalItem>
+<namaItem>NDOMI AYAM BHNG 69G</namaItem> 4 2300 <subtotalItem>9,200</subtotalItem>
+<namaItem>NDOMI GR SP JUMB129</namaItem> 4 3500 <subtotalItem>14,000</subtotalItem>
+<namaItem>GARUDA ROSTA BWG 100</namaItem> 9000 <subtotalItem>9,000</subtotalItem>
+<namaItem>GARUDA KCNG ATOM 130</namaItem> 18600 <subtotalItem>8,600</subtotalItem>
+<namaItem>OREO SANDW.COKLT 137</namaItem> 2 8000 <subtotalItem>16,000</subtotalItem>
+<namaItem>LASTIK BSR</namaItem>
+DISKON
+HARGA JUAL: 79,000
+VC REO 137G/PT MONDELEZ (3, 100)
+TOTAL <totalPembayaran>75,900</totalPembayaran>
+TUNAI100,000
+KFMBALI 2 24,100
+ANDA HE NAT 3,100
+PPN PP 71,818 PPN- 7,182
+LAY4 AN KONSUMEN SMS 0811 1500 280
+CA1500 280 KONTAKCINDOM ARET.CO.ID
+Iivr0 PROMU: ADD @INDOMARET DI LINE

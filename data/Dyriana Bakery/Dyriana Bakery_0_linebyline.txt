@@ -1,0 +1,19 @@
+Dyrtana Bakery And Cafe
+Jl. Pamularsih No.70 Semarang
+Telp. 024.76630433
+01-253.256.0-503.000
+Rabu,01-05-19/01/LIAN
+Harga sudah termasuk PPN
+<namaItem>Mopia Besar Asli Coklat</namaItem> <subtotalItem>20.500</subtotalItem>
+05109 1 20.500
+<namaItem>Bakpia 81 Keju (dos)</namaItem> <subtotalItem>35.000</subtotalItem>
+05121 1 35.000
+<namaItem>Brem Suling Gading Madiun B</namaItem> <subtotalItem>36.000</subtotalItem>
+06174 3 12.000
+KE W
+QTY = 5 / ITEMS = 3
+TOTAL Rp. <totalPembayaran>91.500</totalPembayaran>
+CASH Rp.
+KEMBALI Rp. 8.500
+----TERIMA KASIH-
+'

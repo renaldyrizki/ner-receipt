@@ -1,0 +1,14 @@
+ROTI UNYIL & KUE
+"Okeke" 2 ,I
+Jt. Raya Padalarang (Ciburuy) No. 263
+Telp. 022-6805852 Bandung
+DATE 09/04/2019 TUE TIME 17:45
+10% 02,000
+<namaItem>ROTI UNYIL</namaItem> <subtotalItem>20,000</subtotalItem>
+TOTAL <totalPembayaran>20,000</totalPembayaran>
+CASH 50,000
+CHANGE 30,000
+Terima kasih atas Kunjungan Anda
+ANI N 000031 00002
+canned with
+Scanner

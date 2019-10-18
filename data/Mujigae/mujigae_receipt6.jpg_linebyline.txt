@@ -1,0 +1,16 @@
+MUJIGAE RESTO
+Cihampelas Walk Bandung
+Meja : 31
+@ 2019-05-01 14:50:51
+<namaItem>ANNYEONG SET</namaItem> 1 44,000 <subtotalItem>44,000</subtotalItem>
+<namaItem>YANGNYEOM CHICKEN TO</namaItem> 1 42,000 <subtotalItem>42,000</subtotalItem>
+<namaItem>APPLE TEA HOT/COLD</namaItem> 1 13,000 <subtotalItem>13,000</subtotalItem>
+Subtotal 99,000
+Services 4,950
+103,950
+Tax 10,395
+Total <totalPembayaran>114,345</totalPembayaran>
+Tunai 114,345
+TERIMA KASIM
+Cs Scanned with
+CamScanner

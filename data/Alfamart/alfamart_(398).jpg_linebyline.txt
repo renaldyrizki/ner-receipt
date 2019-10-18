@@ -1,0 +1,20 @@
+ALFAMART CIHARUGA
+081294658759
+CV OEZANK PRODUCTION
+JL.TERUSAN GEGER KALONG HILIR NO.37.
+NPWP 02.761.044.3-421.000
+on N177-401-2204V85Z Kasir OKI RIVA
+<namaItem>BC SBL EX135ML</namaItem> 1 6,700 <subtotalItem>6,700</subtotalItem>
+lisc. -900
+<namaItem>OSRO TEH 30S</namaItem> 1 6,700 <subtotalItem>6,700</subtotalItem>
+isc. 300
+<namaItem>P BRANDING S</namaItem> 1 200 <subtotalItem>200</subtotalItem>
+otal Iten 3 13,600
+otal Disc. 1,200
+otal Belanja <totalPembayaran>12,400</totalPembayaran>
+unai 100,000
+enbalian 87,600
+PN ( 1,191)
+gl. 22-04-2019 16:07:32 V.2019.1.0
+Kritik&Saran Hub. Telp. 150959 Scanned with
+Cs 081 CamScanner 111234 www.alfanartku.com

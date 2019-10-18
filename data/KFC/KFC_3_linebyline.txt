@@ -1,0 +1,15 @@
+BEC BANDUNG
+JI. Purnawanan 13-15
+Sumurbandung Bandung
+Telp. 022
+FAT IN
+<namaItem>Spaghetti Deluxe</namaItem> <subtotalItem>8,182</subtotalItem>
+Sub Total 8,182
+Dasar Per an P. ik 8.122
+.Rest
+otal <totalPembayaran>9 000</totalPembayaran>
+Cash 9,000
+Terima Kas
+1 Items, 05102118 23435 15: 12:4
+SANDY, POS #U0.', 05-10-018
+DI karir.kfcku.com

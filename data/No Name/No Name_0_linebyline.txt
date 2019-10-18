@@ -1,0 +1,16 @@
+BUKTI RAYAR
+He ja 020 (REN
+<namaItem>PAKET SPESIAL</namaItem> 2 <subtotalItem>43.636</subtotalItem>
+<namaItem>REEF ERIMAKI</namaItem> 1 <subtotalItem>52.728</subtotalItem>
+<namaItem>ICE LEMON TEA</namaItem> 1 <subtotalItem>14.545</subtotalItem>
+<namaItem>SWEET ICE TEA</namaItem> 1 <subtotalItem>7,273</subtotalItem>
+<namaItem>TEH PUCUK GOKANA</namaItem> 1 <subtotalItem>8.182</subtotalItem>
+<namaItem>PEEF EBIMAKI</namaItem> 1 <subtotalItem>26.364</subtotalItem>
+Sub Total 152.729
+PR1 10% 15.273
+Total <totalPembayaran>168.001</totalPembayaran>
+Tunai 170.00
+Kembalian 1.999
+Layanan Konsumen (SMS) 081 320 333 673
+Layanan Pesan Antar 021-7811000
+TERIMA KASIH

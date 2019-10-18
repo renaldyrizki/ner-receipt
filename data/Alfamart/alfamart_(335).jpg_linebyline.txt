@@ -1,0 +1,12 @@
+ALFAMART CIWARUGA
+081294658759
+CV OEZANK PRODUCTION
+JL. TERUSAN GEGER KALONG HILIR NO.37.
+NPWP 02.761.044.3-421.000
+Bon N177-505-16049ZDZ Kasir: RESTI FI
+<namaItem>CMP HH DRN 80ML</namaItem> 2 6,900 <subtotalItem>13,800</subtotalItem>
+Total Item <totalPembayaran>13, 800</totalPembayaran>
+Tunai 50,000
+Kenbalian 36, 200
+PPN ( 1,255)
+Tgl 16-04-2019 18:55:17 V.2019.1.0 CScanned CamScanner

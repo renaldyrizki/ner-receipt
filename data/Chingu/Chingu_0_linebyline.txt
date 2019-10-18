@@ -1,0 +1,19 @@
+CHINGU CAFE
+Sawunggaling
+J1. Sawunggaling 10
+022 4239963
+Pax:3 TABLE:C05
+OP: Ajeng
+POS Title:CHAGIYA POS:POS002
+27/04/2019 15:01
+1 <namaItem>Menu Set for 4-5 Psn</namaItem> <subtotalItem>159,000</subtotalItem>
+3 <namaItem>Boricha</namaItem> <subtotalItem>20,700</subtotalItem>
+SUBTOTAL 179,700
+PB1 10% 17,970
+TOTAL <totalPembayaran>197,670</totalPembayaran>
+Total item :2 Total Qty :4
+Remarks = EDWIN
+KAMSAHAMNIDA, PLEASE COME AGAIN
+PreSettlement 8il1
+This Is PreSettlement Rcpt
+27/04/2019 16:29

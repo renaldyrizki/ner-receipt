@@ -1,0 +1,22 @@
+ClaANEA
+Rumah Makan Ciganea
+J1.Pemuda 31, Purwakarta, JABAR,
+41152
+0264 200726
+23 Jun 2019 15:46
+Receipt Number 17IQJU
+Order ID 2SU0009
+Collected By jumaroh cigane
+*Ruang Biasa*
+<namaItem>Gepuk</namaItem>
+1x 021.000 <subtotalItem>21.000</subtotalItem>
+<namaItem>Sambal Dadak Ciganea</namaItem>
+1x 09.000 <subtotalItem>9.000</subtotalItem>
+Subtotal Rp 30.000
+Pajak Resto..(10%) Rp 3.000
+Total
+Rp <totalPembayaran>33.000</totalPembayaran>
+Cash
+Rp 40.000
+Rp 7.000
+Change

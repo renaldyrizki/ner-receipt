@@ -1,0 +1,25 @@
+ALFAMART CIWARUGA
+081294658759
+CV OEZANK PRODUCTION
+JL.TERUSAN GEGER KALONG HILIR NO.37
+NPWP 02.761.044.3-421.000
+Bon N177-504-210442T9 Kasir : NENG AME
+KP BRANDING L -1 200 -200
+MD EGG DROP110G -2 7,500 -15,000
+CLEAR C.CARE160 -1 28,500 -28,500
+Disc. 5,600
+STAMP RVKB MSK -1 1 -1
+Disc. 1
+<namaItem>SAMPOERNA MRH16</namaItem> 1 23,600 <subtotalItem>23, 600</subtotalItem>
+SAMPOERNA MRH16 -1 23,600 -23,600
+<namaItem>DJISAMSOE SP 12</namaItem> 2 20,100 <subtotalItem>40,200</subtotalItem>
+Total Item 7 -3,501
+Total Disc. -5,601
+Total Belanja <totalPembayaran>2,100</totalPembayaran>
+Kembalian 2,100
+0
+Tunai
+PPN ( -3,918)
+Tgl. 21-04-2019 22:09:20 V.2019.1.u
+Kritik& Saran Huh Telp, 1500959
+Sms 0817111231 tui alfanartku,com

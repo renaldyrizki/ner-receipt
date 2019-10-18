@@ -1,0 +1,41 @@
+PT. LOTTE MART INDONESIA
+LOTTE L LINGKAR LUAR SELATAN KAV. 5-6
+CIRACAS JAKARTA 13750
+Lotte Supermarket BEC
+J1 Purnawarman No 10-15
+Telp: 20510044/087777504968
+PIN: 54F8C48E
+Email: customer.servicelottemart.co. 1d
+NPWP: 02.902.700.0-007.000
+website: www.lottemart.co. id
+Kasir :001003063GITA SAFTA DE
+REG)
+2019-04-27 17:11 POS:2006-0470
+Nama
+Harga satuan Qty Harga Jual
+001 <namaItem>JERUK NAVEL RRC</namaItem>
+2014800000007 51, 680
+1 <subtotalItem>51, 680</subtotalItem>
+SCode:20148080051680010888 Weight: 1.088
+002 <namaItem>IP SHOPPING BAG SIZE M (DJ)</namaItem>
+0410993840000 200
+1 <subtotalItem>200</subtotalItem>
+003 <namaItem>LOTTE MART DONASI EA</namaItem>
+0410558210002 200
+1 <subtotalItem>200</subtotalItem>
+TOTAL SUM 52,080
+##***********#**************#***********
+DISCOUNT TRUNC 80
+##*** ##***
+#**** #****
+Cash
+<totalPembayaran>52, 000</totalPembayaran>
+RECEIVED 52,000
+CHANGE
+#****************************#**********
+TOTAL1ITEM : 3 TOTAL QTY 3
+702190427200604700000520
+Dapatkan Cash Back Point 0,5%
+Khusus Pengguna Lotte Member
+Gratis Hanya MenunJukkan Kartu Identitas
+Hubungi Pusat Informasi Kami

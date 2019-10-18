@@ -1,0 +1,20 @@
+SETIABUDI BANDUNG
+Ji.DR. Setiabudi no. 169
+Bandung
+Teip. 022-2011557
+TAKE AWAY
+CHARGE TA 1,818
+<namaItem>SB 1 OR</namaItem> <subtotalItem>29,090</subtotalItem>
+1
+Sub Total 30,908
+Dasar Pengenaan Pajak 30,908
+Pembulatan 1
+P.Rest 10 % 3,091
+Total <totalPembayaran>34,000</totalPembayaran>
+Cash
+Kembali 16,000
+Terima Kasih
+2 Items, 29042019-69399 20:02:4
+EVA FAUZIAH, POS003, 29-04-2019
+DAPATKAN INFO LOWONGAN KFC
+DI https://karir.kfcku.com

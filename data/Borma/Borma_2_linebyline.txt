@@ -1,0 +1,17 @@
+PT. HARJA BUNATANA LESTARI
+nRD. Setrasari Mall II Kav.A-7 RDG
+02.244.696,7-441.000
+RORNA TORERRA - PERMATA CIMAH
+Phone 022-6623072
+PC:23PD/KASSA
+0545847 <namaItem>SEN ANANDA 6-12 PRESI 400</namaItem>
+<subtotalItem>36,200</subtotalItem>
+0381802 <namaItem>NISSIN SUPER DRACK.BOL 90</namaItem>
+<subtotalItem>6.000</subtotalItem>
+0041141 <namaItem>PONDS F.FDAN PUSE WHITA5</namaItem>
+<subtotalItem>16,700</subtotalItem>
+Total <totalPembayaran>59.500</totalPembayaran>
+Bavar ,000
+Keabali 500
+Rarang Kena Paiak Sudab Teraasuk PPN
+dewi C1/32853.No/11.04.2019 13:14:23

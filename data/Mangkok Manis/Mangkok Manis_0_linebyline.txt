@@ -1,0 +1,30 @@
+MaiGKOK AN I S
+J.Cihampelas No 95
+Bandung
+081320 92006
+B111 :201903100064
+Waiter :IRA
+Kasir :PUTRI
+Tanggal 10/03/2019
+Jam :17:12
+Meja :18
+Telp 0
+<namaItem>Banana Nutella</namaItem>
+1 x 25.000
+<subtotalItem>25.000</subtotalItem>
+<namaItem>Fruittarian</namaItem>
+1 x 25.000
+<subtotalItem>25.000</subtotalItem>
+SUBTOTAL 1
+Rp 50.000
+Rp 1.500
+Rp 5 15Q
+Cash Fp 50
+Service (3*)
+Pembulatan
+(0t) Naa
+GRAND TOTAL <totalPembayaran>56.100</totalPembayaran>
+Rp 7.000
+Rp 300
+Kembalian
+TERIMA KASIH

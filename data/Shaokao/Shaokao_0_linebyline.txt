@@ -1,0 +1,40 @@
+Nur aeza
+Shackao
+K1 Manyunsarkuro no 20, Semarang
+Jawa rengah, 50136
+02476585867
+14.45
+29 Apr 2019
+Receipt Numbe
+Collected By
+3BO7SP
+Yafhi Yadhi
+*Take Away*
+<namaItem>Bakso Sotong Regular</namaItem>
+47.000
+<subtotalItem>14.000</subtotalItem>
+2x
+<namaItem>Bakso Salmon Reguler</namaItem>
+@8.500
+<subtotalItem>8.500</subtotalItem>
+1x
+<namaItem>Giant Sosis Reguler</namaItem>
+@12.000
+<subtotalItem>12.000</subtotalItem>
+1x
+<namaItem>Bakso Salmon Reguler</namaItem>
+08.500
+<subtotalItem>8.500</subtotalItem>
+X
+Rp 43.000
+Subtotal
+Total
+Rp <totalPembayaran>43.000</totalPembayaran>
+Cash
+Change
+Rp 100.000
+Rp 57.000
+shaokaosermarang
+Notes
+Ditunggu kedatangannya Kembali,
+Terima Kasih

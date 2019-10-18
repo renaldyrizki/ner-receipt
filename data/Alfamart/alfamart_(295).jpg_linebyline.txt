@@ -1,0 +1,20 @@
+Bon N177-505-16049Y94 Kasir REST FI
+<namaItem>ISAT NEW 12K</namaItem> 1 13,000 <subtotalItem>13,000</subtotalItem>
+Total Item 1 <totalPembayaran>13,000</totalPembayaran>
+13,000
+O
+Tunai
+Kenbalian
+PPN ( 1,182)
+Tgl. 16-04-2019 16:17:26 V.2019.1.0
++--
+Bukti Transaksi Voucher
+Plu :404206 ISAT NEW 12K
+No Bon :505-16049Y94
+Kode Voucher : 1
+Namor Telepon: 085697708559
+Status PROGRES, LAKUKAN INDUIRY
+Kritik & Saran Hub. Telp. 1500959
+Sus 0817111234 www, alfamartku.com
+cs Stanned with
+CamScanner

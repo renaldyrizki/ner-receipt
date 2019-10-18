@@ -1,0 +1,16 @@
+ALFAMART CIWARUGA
+081294658759
+CV OEZANK PRODUCTION
+JL.TERUSAN GEGER KALONG HILIR NO.37.
+NPHP 02.761.044.3-421.000
+Bon N177-504-2104UYV6 Kasir : NENG AME
+<namaItem>POTABEE SWD 68G</namaItem> 1 10,200 <subtotalItem>10,200</subtotalItem>
+<namaItem>BONCABE L30 40G</namaItem> 1 14,000 <subtotalItem>14,000</subtotalItem>
+<namaItem>KP BRANDING S</namaItem> 1 200 <subtotalItem>200</subtotalItem>
+Total Item 3 <totalPembayaran>24,400</totalPembayaran>
+Tunai 25,000
+Kembalian 600
+PPN ( 2,218)
+Tgl. 21-04-2019 21:10:45 V.2019.1.0
+Kritik& Saran Hub. Telp, 1500959
+Sns 0817111234 www.alfamartku.com

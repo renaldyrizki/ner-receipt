@@ -1,0 +1,18 @@
+ALFAMART CIHARUGA
+022-2001649
+NPWP 02.761.044.3-421.0
+Bon NIT7-104-25033KZ Kasir : RAHADIAN
+KP BRANDINC M
+Oisc. -1
+<namaItem>SANDE LEC 320ML</namaItem> 1 6,600 <subtotalItem>6,600</subtotalItem>
+<namaItem>ABC SDN EXT155G</namaItem> 1 9,100 <subtotalItem>9,100</subtotalItem>
+<namaItem>ROWCO NG 170</namaItem> 2 6,500 </subtotalItem>3,000</subtotalItem>
+Total !ter 18, 701
+Total isc <totalPembayaran>18,700</totalPembayaran>
+i&0, 000
+Kenbalian al,300
+Tunai
+) Ndd 1,700)
+Tgl. 2503-2618 1:46:24 .2018.1.4
+Kritik & Saran Ht. Teip. 1500959
+SES 0817111234 ww.alfanartku.co

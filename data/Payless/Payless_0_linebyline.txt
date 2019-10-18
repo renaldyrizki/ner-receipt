@@ -1,0 +1,25 @@
+PY FESIIVAL CITY LINK BANDUNG
+Festival Citylink Lt 1 Unit 37-38
+MOC JJA JI Peta No, 241 INVOICE AM
+INVOICE NO 100127332 28/03/2019 17:47.11
+COUNTER 2 CASHIER 09802048
+CUSTOMER REF : WLK999
+NAME WALKIN
+TEM QTY. PRICE AMOUNT
+B5H1782480 1 251300.00 <subtotalItem>251300.00</subtotalItem>
+PK080
+<namaItem>CRAZE QUILTED SLIP ON, PINK/PI</namaItem>
+ZZZPLSNRX 1 <subtotalItem>500.00 500.00</subtotalItem>
+LPL
+<namaItem>Payless Plastic Bag size XL Ne</namaItem>
+GROSS TOTAL 251800.00
+NET TOTAL 251800 00
+CARD PAYMENT IDR 251,800
+601301*8618
+TOTAL AMOUNT <totalPembayaran>251,800</totalPembayaran>
+NUMBER OF ITEMS 2 vah
+OTAL ITEMS
+ema nd Haiga diatas sudah termasuk PPN
+PL. Putra Agung Lestari 21 110 935.0-022 000 AM
+Sahid Sudiman Center Lt 26
+J Jend Sudiman Ka 86. Jak Pusat

@@ -1,0 +1,16 @@
+LEDENG 284 / 081294658682
+PT.SUMBER ALFARIA TRIJAYA, TBK
+ALFA TOWER LT. 12, ALAM SUTERA, TANGERANG
+NPHP 01.336.238.9-054.000
+L. SETIA BUDHI NO. 284 RT. O CIDADAP
+Bon B908-333-0304ZV87 Kasir MEL INA N
+<namaItem>LS CNT BWR2</namaItem> 2 5,000 <subtotalItem>10,000</subtotalItem>
+<namaItem>RESTEA AP350ML</namaItem> 1 4,000 <subtotalItem>4,000</subtotalItem>
+Total m 2 <totalPembayaran>14,000</totalPembayaran>
+Tunai 100 000
+6,000
+kerbalian
+PPN 1,273)
+W i
+gl 03-04-2019 09:05:09 V.2 19.1.0 r H 4 4
+Kritik&Saran:1500959, SMS: 0817111224

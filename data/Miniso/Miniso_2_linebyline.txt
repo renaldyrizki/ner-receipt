@@ -1,0 +1,27 @@
+Welcome To MINISO
+NPWP:ID2B
+Company Name:PT.SHANGHAI MINGCH
+UANG INTERNASIONAL
+Bandung Indah Plaza
+Serial No. : 201903270319
+POS NO. ID2Ba
+Cashier:ID2B03[ID2B031
+-Sales
+Goods code U/P Qty Amt
+<namaItem>Airbag Comb(big)</namaItem>
+0200025871 29900 <subtotalItem>29900</subtotalItem>
+TAX-EXcl 1
+27181.82
+2718.18
+Discount Price 0
+TOTAL <totalPembayaran>29900.00</totalPembayaran>
+CashRp 100.000
+Change 70.100
+Date:2019-03-27 21:04:07
+We are looking for global
+Cooperation.
+Get in touch with us
+customerservice,ideminiso.cum
+0813 8888 0966
+COOPERATION HOTLINE
+0800 100 1138

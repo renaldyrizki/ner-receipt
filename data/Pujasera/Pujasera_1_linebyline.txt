@@ -1,0 +1,17 @@
+RM. PUJASERA
+JLN. MERDEKA NO. 33
+BANDUNG
+REG 24-04-2019 20:20
+000045
+<namaItem>TONGSENG</namaItem> <subtotalItem>13. 000</subtotalItem>
+<namaItem>NETI JUS</namaItem> <subtotalItem>4. 500</subtotalItem>
+<namaItem>JELLY</namaItem> <subtotalItem>16.000</subtotalItem>
+<namaItem>ST</namaItem> <subtotalItem>33.500</subtotalItem>
+10%
+PPN .3. 350
+TOTAL <totalPembayaran>36.850</totalPembayaran>
+CASH 50.000
+CHANGE 13. 150
+SUDAH TERMASUK PPN 10%
+TERIMA KASIH
+ATAS KUNJUNGAN ANDA

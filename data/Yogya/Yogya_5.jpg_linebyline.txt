@@ -1,0 +1,20 @@
+TOSERBA YOGYA
+Jl.0tista No.77 SUBANG
+PT.AKUR PRATANA
+NPUP:01.555.189.8-007.000
+L.P.Revolusi 15 Jaktin
+http://wau.toserbavogva.com
+RP
+<namaItem>KRESEK HD 15 CETAK</namaItem> <subtotalItem>1</subtotalItem>
+Free 1-
+<namaItem>FAIR&LOVELY CR 256</namaItem> <subtotalItem>15.750</subtotalItem>
+<namaItem>VASELINE HBUHWINS5</namaItem> <subtotalItem>20.250</subtotalItem>
+SUBTOTAL 36.000
+TOTAL <totalPembayaran>36.000</totalPembayaran>
+CASH 50.000
+CHANGE DUE 14.000
+TOTAL DIRECT DISC: 1
+NO. OF DISC. LINES: 1
+TERIMA KASIH ATAS KUNJUNGAN ANDA *
+Utk barang kena pajak harga tereasuk PW
+Mc 1 45638 137420 24/04/19 14:42

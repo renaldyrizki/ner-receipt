@@ -1,0 +1,29 @@
+ALFAMART CIWARUGA
+022-2001649
+NPWP 02.761.044.3-421.0
+Bon N177-505-0404MC82 Kasir LILY
+KANTONG PLS L 1 1 1
+Disc. -1
+*<namaItem>FF UHT PF CKT</namaItem> 1 16,900 <subtotalItem>16,900</subtotalItem>
+<namaItem>MY ROT! THR FWP</namaItem> 1 12,000 <subtotalItem>12,000</subtotalItem>
+<namaItem>PARAGO MILK</namaItem> 4,000 <subtotalItem>4,000</subtotalItem>
+<namaItem>TANGO WAFF</namaItem> 8,900 <subtotalItem>8,900</subtotalItem>
+Disc.
+<namaItem>MY ROTI SW</namaItem> 4,500 <subtotalItem>4,500</subtotalItem>
+<namaItem>MY ROTI MN</namaItem> K 6,000 <subtotalItem>6,000</subtotalItem>
+<namaItem>MY ROTI KOPI Su</namaItem> 4,500
+STAMP ROYALVKB 2 2
+Disc. -2
+4,500
+Anda mendapatkan
+Stamp Fisik Alfamart VKB Cookware
+1 SLamp Utama + 1 Stamp Bonus
+Total Item 9 56,803
+Total Disc. 2,403
+Total Belanja <totalPembayaran>54,400</totalPembayaran>
+Tunai 100,000
+Kembalian 45,600
+PPN 5.018)
+Tgi. 04-04-2017 21:20:44 V.2017.1.3
+Kritik & Saran Hub. Telp, 1500359
+Sms 0817111234 wWW,aifamartku.comn

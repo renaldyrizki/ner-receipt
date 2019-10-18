@@ -1,0 +1,16 @@
+ALFAMART CIHARUGA
+81294658759
+CV OEZANK PRODUCTION
+JL.TERUSAN GEGER KALONG HILIR NO.37.
+NPHP 02.761.044.3-421.000
+Bon N177-505-27043YCX Kasir : RESTI FI
+<namaItem>BUBURIA AYM 53G</namaItem> 2 3,600 <subtotalItem>7,200</subtotalItem>
+<namaItem>INDOMIE GPRK85G</namaItem> 1 2,500 <subtotalItem>2,500</subtotalItem>
+<namaItem>KP BRANDING M</namaItem> 1 200 <subtotalItem>200</subtotalItem>
+Total Item 3 <totalPembayaran>9,900</totalPembayaran>
+Tunai 9,900
+Kenbalian 0
+PPN ( 900)
+Tgl. 27-04-2019 19:24:32 V.2019.1.0
+Kritik& Saran Hub. Telp. 1500959
+Sms 0817111234 Www.alfanartku.com

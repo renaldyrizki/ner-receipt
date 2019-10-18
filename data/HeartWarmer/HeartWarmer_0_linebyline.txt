@@ -1,0 +1,12 @@
+Nomor FC/2019/IV/FCL/2266
+Customer Cash
+Tanggal  9/4/19 18:59:57
+Pembuat dei
+IRKR8700 <namaItem>uburz gelap Tg</namaItem>
+15,000 <subtotalItem>15,000</subtotalItem>
+KPg kresek tosca no.2
+Total oty
+Total : Rp <totalPembayaran>15,000</totalPembayaran>
+Cash:
+Kembali Rp 0
+BARANG YANG SUDAH DIBELI TIDAK DAPAT

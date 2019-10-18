@@ -1,0 +1,18 @@
+Jin Gegerkaiong Girang No 83, Bandung, Jawa Bara Mama Legend
+t, 40135
+081224554353
+07 Apr 2019 19:20
+Receipt Number 380IA4
+Table Name
+Collected By Iman Hidayatul
+68
+<namaItem>sapi lada hitam</namaItem> 1 Rp <subtotalItem>25.000</subtotalItem>
+<namaItem>fu yung hai</namaItem> 1 Rp <subtotalItem>16.000</subtotalItem>
+level 3
+<namaItem>nasi</namaItem> 1 Rp <subtotalItem>4.000</subtotalItem>
+<namaItem>eman squash</namaItem> x2 Rp <subtotalItem>20.000</subtotalItem>
+Subtota Rp 65.000
+Total Rp <totalPembayaran>65.000</totalPembayaran>
+Rp 100.000
+hange Rp 35.000
+Cash

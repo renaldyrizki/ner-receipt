@@ -1,0 +1,9 @@
+VENUS
+02-03-2019 MAS
+<namaItem>ROTI UNYIL</namaItem> 90x = <subtotalItem>144,000</subtotalItem>
+<namaItem>CROISANT</namaItem> 10x= <subtotalItem>16.000</subtotalItem>
+Total = <totalPembayaran>160.000</totalPembayaran>
+Cash = 200.000
+Kembali = 40 ,000
+Total Qty, -100
+SELAMAT DATANG

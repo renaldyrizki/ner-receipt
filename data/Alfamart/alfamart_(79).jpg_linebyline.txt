@@ -1,0 +1,18 @@
+ALFAMART CIHARUGA
+022-2001649
+NPWP :02.761.044.3-421.0
+Bon NITT-200-2605VZV4 Kasir NDRI 1 1!
+<namaItem>KANTONG PLS M</namaItem>
+0isc. -1
+<namaItem>SARI ROTI KSR K</namaItem> 15,000 <subtotalItem>15,000</subtotalItem>
+<namaItem>PEPSODENT SG D.</namaItem> 1 11,900 <subtotalItem>,900</subtotalItem>
+<namaItem>PEPSODENT ECO</namaItem> 7 4,600 <subtotalItem>4,600</subtotalItem>
+Total item 31.501
+Total Disc.
+Total Belanja <totalPembayaran>36500</totalPembayaran>
+Tunai 40,000
+Kembalian ,500
+PPN ( 2,864)
+Tgi. 26-05-2017 20:47: 39 .2073
+Kritik & Saran Hub, lelp. 1500959
+Sus 0817111234 wN.alatartku coe

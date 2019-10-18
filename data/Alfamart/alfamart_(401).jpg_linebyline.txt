@@ -1,0 +1,17 @@
+ALFAMART CIWARUGA
+081294658759
+CV OEZANK PRODUCTION
+JL. TERUSAN GEGER KALONG HILIR NG.37.
+NP P 02.761.044.3-421.000
+Bon N177-505-2704W245 Kasir: RESTI FI
+<namaItem>INDOMIE GRG ACE</namaItem> 1 2,500 <subtotalItem>2,500</subtotalItem>
+<namaItem>INDOMIE GPRK85G</namaItem> 1 2,500 <subtotalItem>2,500</subtotalItem>
+<namaItem>PEPSO ECO 120</namaItem> 1 7,400 <subtotalItem>7,400</subtotalItem>
+<namaItem>KP BRANDING S</namaItem> 1 200 <subtotalItem>200</subtotalItem>
+Total Item 4 <totalPembayaran>12,600</totalPembayaran>
+Tunai 100,000
+Kenbalian 87,400
+PPN 1,145)
+Tgl. 27-04-2019 18:48:54 V.2019.1.0
+Kritik & Saran Hub. Telp. 1500959 anned wit
+Sms 0817111234 kUN, alfamartku.com

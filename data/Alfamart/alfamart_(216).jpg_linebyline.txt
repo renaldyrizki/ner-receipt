@@ -1,0 +1,19 @@
+Bon N177-401-2204XCX5 Kasir : OKI RIVA
+<namaItem>P BRANDING M</namaItem> 1 200 <subtotalItem>200</subtotalItem>
+<namaItem>IT PET 600ML</namaItem> 2 3,400 <subtotalItem>6,800</subtotalItem>
+Disc. -1,800
+<namaItem>CHARM S.COMF 10</namaItem> 1 10,600 <subtotalItem>10,600</subtotalItem>
+<namaItem>FROZZ CRY 15G</namaItem> 1 9,300 <subtotalItem>9,300</subtotalItem>
+Disc -1,800
+4 26,900
+3,600
+<totalPembayaran>23,300</totalPembayaran>
+Tunai 50,000
+Cembalian 26, 700
+Total Item
+Total Disc
+Total Belanja
+PN ( 2,300)
+gl. 22-04-2019 17:26:34 V.2019.1.0
+Kritik & Saran Hub. Telp. 1500959
+STS 0817111234 www.alfamartku com

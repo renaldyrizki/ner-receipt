@@ -1,0 +1,12 @@
+TONG TI
+Tong Tii Bandung Indah Plaza
+Bandung Indah Plaza
+01/04/2019 15:42:03 TAKEOUT
+82-190104-11814-1 Tamu: 1
+IAKEOUT(1):
+1 <namaItem>Jasmine Tea Reg</namaItem> <subtotalItem>8.182</subtotalItem>
+Subtotal 8.182
+Pajak 818
+Total <totalPembayaran>9.000</totalPembayaran>
+CASH 9,000
+Kembalian

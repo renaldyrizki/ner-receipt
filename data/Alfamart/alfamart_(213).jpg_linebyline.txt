@@ -1,0 +1,17 @@
+ALFAMART CIWARUGA
+081294658759
+CV OEZANK PRODUCTION
+JL.TERUSAN GEGER KALONG HILIR NO.37.
+NPWP 02.761.044.3-421.000
+Bon N177-504-2104UMV6 Kasir NENG AME
+<namaItem>SA P.LANGSAT 75</namaItem> 1 19,900 <subtotalItem>19,900</subtotalItem>
+Disc. -7,000
+Total tem 1 19,900
+Total Disc 7,000
+Total Belanja <totalPembayaran>12,900</totalPembayaran>
+Tunai 50,000
+Keibalian 37,100
+PPN ( 1,600)
+Tgl 21-04-2019 16:29:47 V.2019.1.0
+Kritik&Saran Hub. Teip. 1500959
+STIS 0817111234 www.alfanartku.Con

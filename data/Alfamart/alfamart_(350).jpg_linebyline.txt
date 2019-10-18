@@ -1,0 +1,37 @@
+ALFAMART CIHARUGA
+081294658759
+CV OEZANK PROUCTION
+TERUSAN GEGER KALONG HILIR NO.37.
+NPHP : 02.761.044.3-421.000
+OUPLIKAT
+Bon N177-400-1904H7H9 Kasir RIKI
+<namaItem>KP BRANDING L</namaItem> 2 200 <subtotalItem>400</subtotalItem>
+<namaItem>NS KLP IJO 280G</namaItem> 2 9,700 <subtotalItem>19,400</subtotalItem>
+Disc. -3,600
+<namaItem>QTELA S.BLO185G</namaItem> 1 16,000 <subtotalItem>16,000</subtotalItem>
+<namaItem>SR TWR SOFT360G</namaItem> 1 18,000 <subtotalItem>18,000</subtotalItem>
+<namaItem>NS CRSP CRK250G</namaItem> 1 10,000 <subtotalItem>10,000</subtotalItem>
+<namaItem>INDFD EP 335ML</namaItem> 1 14,200 <subtotalItem>14,200</subtotalItem>
+Disc. -4,200
+<namaItem>RINSO A.NODAG00</namaItem> 1 15,400 <subtotalItem>15,400</subtotalItem>
+Disc. 800
+<namaItem>SASA TB AYM225G</namaItem> 1 6,600 <subtotalItem>6,600</subtotalItem>
+Disc. -1,700
+<namaItem>SOKLIN BLUE 900</namaItem> 1 11,600 <subtotalItem>11601</subtotalItem>
+<namaItem>RINSO LIQ M750</namaItem> 1 18,800 <subtotalItem>18,800</subtotalItem>
+Disc. 2,300
+<namaItem>SUNLG J.NPS 210</namaItem> 2 5, Gu <subtotalItem>10,000</subtotalItem>
+<namaItem>STAMP RVKB MSK</namaItem> 4 1 <subtotalItem>4</subtotalItem>
+Disc. -4
+Anda mendapatkan
+Stanp Fisik Alfamart RVKB Peralatan Masa
+4 Stanp Utama
+Total Item 12 140,404
+Total Disc. 12,604
+Total Belanja <totalPembayaran>127,800</totalPembayaran>
+Tunai 200,000
+Kenbalian 72,200
+PPN( 12,582)
+Tgl. 19-04-2019 09:28:42 V2019.1.0
+Kritik& Saran Hub. Telp. 1500959
+CS Scanned with CamScanner Sna 0817111234 Ww.al fanartku com

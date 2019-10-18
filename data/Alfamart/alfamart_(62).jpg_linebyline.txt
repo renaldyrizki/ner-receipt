@@ -1,0 +1,21 @@
+ALFAMART CIWARUGA
+022-2001649
+NPWP : 02.761.044.3-421.0
+Bon N177-505-11053H74 Kasir LILY
+*<namaItem>KANTONG PLS L</namaItem> 1 <subtotalItem>1</subtotalItem>
+Disc. -1
+*<namaItem>MITU HIP A.SEP</namaItem> 1 18,500 <subtotalItem>18,500</subtotalItem>
+Disc. -2,600
+*<namaItem>SARI ROTI KSR</namaItem> 1 15,000 <subtotalItem>15,000</subtotalItem>
+*<namaItem>SARI ROTI CKT</namaItem> 1 15,000 <subtotalItem>15,000</subtotalItem>
+*<namaItem>PAROTI CHS CAK</namaItem> 1 9,000 <subtotalItem>9,000</subtotalItem>
+*<namaItem>MIZONE APL GVA</namaItem> 1 4,900 <subtotalItem>4,900</subtotalItem>
+Total item 62,401
+Total Disc. 2,601
+Total Belanja <totalPembayaran>59,800</totalPembayaran>
+Tunai 70,000
+Kenbalian 10,200
+PPN 5,564)
+Tgl. 11-05-2017 21:20:58 V.2017.4.2
+Kritik & Saran Hub. Telp. 1500959
+Sns 0817111234 www. alfamartku,com

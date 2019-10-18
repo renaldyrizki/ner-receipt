@@ -1,0 +1,19 @@
+ALFAMART CIHARUGA
+081294658759
+CV OEZANK PRODUCTION
+JL.TERUSAN GEGER KALONG HILIR NO.37.
+NPWP 02.761.044.3-421.000
+Bon N177-303-1904YKW7 Kasir
+<namaItem>SUPERMI AYM110G</namaItem> 4 <subtotalItem>2,500</subtotalItem>
+<namaItem>SUPERMI ST 100G</namaItem> 2 <subtotalItem>2,500</subtotalItem>
+Oisc. -2,000
+<namaItem>KP BRANDING M</namaItem> 1 200 <subtotalItem>200</subtotalItem>
+Total Item 3 15,200
+Total Disc. 2,000
+Total Belanja <totalPembayaran>13,200</totalPembayaran>
+Tunai 13,200
+Kerbalian 0
+PPN ( 1,382)
+Tgl 19-04-2019 18:52:34 V.2019.1.0
+Kritik & Saran Hub. Telp. 1500959
+Sms 0817111234 www. alfarartku.com

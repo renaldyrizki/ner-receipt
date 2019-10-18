@@ -1,0 +1,14 @@
+Kingcom
+Jatinangor
+Telp: Fax:
+No. 1813/KSR/UTM/0419 02-04-19
+Ksr: ADMIN 12:34:52
+Pel: UMUM/CASH
+<namaItem>MACARON LOG0&POLOS PCS</namaItem>
+25000 1 <subtotalItem>25.000,00</subtotalItem>
+BRS 1QTY <totalPembayaran>25.000,00<totalPembayaran>
+Tunai 100.000,00
+Kembali 75.000,00
+Barang yang telah dibeli
+tidak dapat dikembalikan
+kecuali ada perjanjian

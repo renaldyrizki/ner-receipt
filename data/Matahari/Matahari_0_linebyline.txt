@@ -1,0 +1,20 @@
+PT MATAHARI DEPARTMENT STORE. tbk
+NPWP/NPPKP 01.394 .013.5-091.000
+T9l PKP : 01 Jul 2002
+ver 1.8 1614
+PENJUALAN 0359 00024 0169 24/03/19
+023470 1816 44
+94808276 <namaItem>PETER KEIZA</namaItem> <subtotalItem>199.000</subtotalItem>
+93025784 <namaItem>SB SIZE</namaItem> <subtotalItem>0</subtotalItem>
+2 ITEMS TOTAL <totalPembayaran>199,000</totalPembayaran>
+TUNAI 200,000
+AL I -1,000
+Barang kena pajak, harga termasuk PPN
+Keluhan Atas Pelayanan & Saran Hubungi
+Call Center HALO MATAHARI 1500 838
+Jam Layanan: 08.00 - 22.00 WIB
+e-mail halomatahari@matahari.co.id
+Fax
+021 547 5718
+TERIMA KASIH
+ATAS KUNJUNGAN ANDA

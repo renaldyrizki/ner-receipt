@@ -1,0 +1,21 @@
+ALFAMART CIWARUGA
+81294658759
+CV OEZANK PRODUCTION
+J.L. TERUSAN GEGER KALONG HILIR NO.37.
+NPHP 02.761.044.3-421.000
+Bon N177-403-2404Z3H5 Kasir WISNU AG
+<namaItem>MM NB APL 300ML</namaItem> 1 7.500 <subtotalItem>7,500</subtotalItem>
+Disc. -500
+<namaItem>WLS MGA 64ML</namaItem> 1 5,000 <subtotalItem>5,000</subtotalItem>
+<namaItem>WLS CNT BW82</namaItem> 1 5,000 <subtotalItem>5,000</subtotalItem>
+<namaItem>GD MOC LTE200ML</namaItem> 4,600 <subtotalItem>4,600</subtotalItem>
+<namaItem>KP BRANDING S</namaItem> 1 1 <subtotalItem>200</subtotalItem>
+Total Item 5 22,300
+Total Disc. 500
+Total Belanja <totalPembayaran>21,800</totalPembayaran>
+Tunai 22,000
+Kenbalian 200
+PPN ( 2,027)
+Tgl. 24-04-2019 11:30:14 V.2019.1.0
+cs Scanned with Kritik & Saran Hub. Telp. 1500959
+Sareson1124 k alfamartkucom her1

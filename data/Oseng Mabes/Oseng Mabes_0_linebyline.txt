@@ -1,0 +1,23 @@
+Useng Mabes
+J1. Garimanah
+0222020182
+DETAIL PEMBAYARAN
+Nota : 0319042518666
+Kasir : Meidina Aini
+Tgl : 25 April 2019
+Jam 14:40:06
+Meja M013
+Telp
+<namaItem>Promo Aya Granat+Nasi</namaItem>
+2 x 10.uu <subtotalItem>20.000</subtotalItem>
+<namaItem>Promo Ayam Halilintar+Nasi</namaItem>
+2 x 10.000 <subtotalItem>20.000</subtotalItem>
+<namaItem>Charge Makanan/Mman Luar</namaItem>
+1 x 20.000 <subtotalItem>20.000</subtotalItem>
+SUBTOTAL 60.000
+PPN (OX) 0
+SERVICE (0%) 0
+GPAND TOTAL <totalPembayaran>60.000</totalPembayaran>
+ASH 60.000
+mbalian O
+TERIMA KASIH

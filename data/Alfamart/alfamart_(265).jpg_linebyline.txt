@@ -1,0 +1,12 @@
+SARIHANGI 3/ 0B1294659113
+PT.SUMBER ALFARIA TRIJAYA, TBK
+ALFA TOWER LT. 12, ALAM SUTERA, TANGERANG
+NPWP 01.336.238.9-054.000
+Bon N692-525-1503M343 Kasir SRI LINA
+<namaItem>GD AVO 25OML</namaItem> 7,100 <subtotalItem>7,100</subtotalItem>
+<namaItem>LE MNRL 600ML</namaItem> 1 3,200 <subtotalItem>3,200</subtotalItem>
+Total Item 2 <totalPembayaran>10,300</totalPembayaran>
+Tunai 20,500
+Kembalian 10,200
+PPN ( 936)
+Tgl. 15-03-2019 12:46:04 V.2019,1.0

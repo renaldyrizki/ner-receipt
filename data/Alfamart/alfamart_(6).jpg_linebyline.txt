@@ -1,0 +1,23 @@
+ALFAMART CIWARUGA
+081294658759
+CV OEZANK PRODUCTION
+JL.TERUSAN GEGER KALONG HILIR NO.37
+NPWP 02.761.044.3-421.000
+ALFAMART CIWARUGA
+081294658759
+CV OEZANK PRODUCTION
+JL.TERUSAN GEGER KALONG HILIR NO.37.
+NPHP 02.761.044.3-421.000
+Bon N177-303-180424C8 Kasir TATI HAR
+<namaItem>DJARUM ICE 16</namaItem> 1 21,100 <subtotalItem>21,100</subtotalItem>
+<namaItem>SAMPOERNA MRH16</namaItem> 1 23,600 <subtotalItem>23,600</subtotalItem>
+<namaItem>KOPIKO CML240ML</namaItem> 2 6,800 <subtotalItem>13,600</subtotalItem>
+<namaItem>KP BRANDING M</namaItem> 1 200 <subtotalItem>200</subtotalItem>
+Total Item 4 <totalPembayaran>58,500</totalPembayaran>
+Tunai 58,500
+Kenbalian 0
+PPN 1,255)
+Tgl. 18-04-2019 09:02:07 V.2019.1.0
+Kritik & Saran Hub. Teip. 1500959
+Sms 0817111234 Www.alfamartky gm
+1

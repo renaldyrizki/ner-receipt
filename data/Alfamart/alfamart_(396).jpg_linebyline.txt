@@ -1,0 +1,21 @@
+ALFAMART CIWARUGA
+081294658759
+CV OEZANK PRODUCTION
+JL.TERUSAN GEGER KALONG HILIR NO.37.
+NPWP 02.761.044.3-421.000
+on N177-401-2204V8V4 Kasir : OKI RIVA
+<namaItem>P BRANDING L</namaItem> 1 200 <subtotalItem>200</subtotalItem>
+<namaItem>'IATTOS SP 85G</namaItem> 1 9,900 <subtotalItem>9,900</subtotalItem>
+lisc. -3,000
+<namaItem>CHITAN MC310ML</namaItem> 1 7.500 <subtotalItem>7,500</subtotalItem>
+<namaItem>PL AIR 600ML</namaItem> 1 3,700 <subtotalItem>3,700</subtotalItem>
+<namaItem>RENDY SSR V-5"</namaItem> 1 5,400 <subtotalItem>5,400</subtotalItem>
+otal Item 5 26,700
+otal Disc. 3,000
+otal Belanja <totalPembayaran>23,700</totalPembayaran>
+unai 25,000
+enbalian 1.300
+PN (2,427)
+gl. 22-04-2019 18:45:56 V.2019.1.0
+Kritik&Saran Hub. Telp. 1500959
+CScanned with CS 0817111234 www.alfanartku.com CamScanner

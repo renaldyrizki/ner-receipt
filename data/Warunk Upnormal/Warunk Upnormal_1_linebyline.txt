@@ -1,0 +1,23 @@
+WARUNK UPNORMAL
+CIKUTRA
+. Cikutra No. 169 Bandung
+09 Apr 2019 12:49:02
+PO242128 ANWAR
+Order By ANWAR
+DINE IN S0260355
+TBL C3
+maya
+1 <namaItem>ICE LYCHEE</namaItem>
+<subtotalItem>15,000</subtotalItem>
+Subtotal 15,000
+PB1 1,500
+Total <totalPembayaran>16,500</totalPembayaran>
+CASH 20,000
+Cash CHANGE -3,500
+1
+Total Item
+Total Qty
+1
+Dukung Brand Local
+Kebanggaan Indonesia
+Wifi cofeenyaenakbanget

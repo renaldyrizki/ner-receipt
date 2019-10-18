@@ -1,0 +1,13 @@
+Bon N177-504-210445T5 Kasir NENG AME
+<namaItem>FRT TEA AP350ML</namaItem> 1 3,500 <subtotalItem>3,500</subtotalItem>
+<namaItem>FRT TEA BC350ML</namaItem> 1 3,500 <subtotalItem>3,500</subtotalItem>
+Total Item 2 <totalPembayaran>7,000</totalPembayaran>
+Tunai 7,000
+0
+Kembalian
+PPN 636)
+Tgl. 21-04-2019 17:07:16 V.2019.1.0
+Kritik& Saran Hub, Telp. 1500959
+Scanned with STS 0917111234 www.alfanartku.com ues
+17
+1S

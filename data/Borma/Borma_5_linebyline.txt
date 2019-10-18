@@ -1,0 +1,27 @@
+PT. HARJA GUNATAMA LESTARI
+Koap. Setrasari Mall 11 Kav.A-7 BDG
+02.244.696.7-441.000
+BORMA TOSERBA BOJONGSOANG
+Phone 022-7561155
+PC134BJ/KASSA 9
+0800652 <namaItem>NESCAFE RTD FRENCH VANILL</namaItem>
+<subtotalItem>3,700</subtotalItem>
+0078831 <namaItem>SELECTION KAPAS 35 GR</namaItem>
+<subtotalItem>5,100</subtotalItem>
+0542143 <namaItem>INDOMILK CAIR VANILLA 190</namaItem>
+#<subtotalItem>3,300</subtotalItem>
+0402404 <namaItem>SERENA TOGO COKLAT 128 GR</namaItem>
+*<subtotalItem>4,800</subtotalItem>
+0B02901 <namaItem>YAKULT</namaItem>
+$<subtotalItem>7,900</subtotalItem>
+0674402 <namaItem>BOLA DUNIA ASAR-AGAR 7 G</namaItem>
+<subtotalItem>3,900</subtotalItem>
+0674402 <namaItem>BOLA DUNIA AGAR-AGAR 7 G</namaItem>
+#<subtotalItem>3,900</subtotalItem>
+Total <totalPembayaran>32.600</totalPembayaran>
+Bayar 100,000
+Kembali 7,400
+Barang Kena Pajak Sudah Termasuk PPN
+cahyani.Cl/198658.No/15.08.2018 19:21:45
+{!} TERIMA KASIH
+Kaai senang aeayani 64FTAS

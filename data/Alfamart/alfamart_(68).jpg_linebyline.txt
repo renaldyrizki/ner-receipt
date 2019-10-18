@@ -1,0 +1,17 @@
+ALFAMART CIHARUGA
+022-2001649
+NPWP 02.761.044.3-421.0
+Bon N177-200-0806YCT5 Kasir INDRI
+<namaItem>LAURIER SR.NGHT</namaItem> 1 10,200 <subtotalItem>10,200</subtotalItem>
+<namaItem>MITU WIP A.SEPT</namaItem> 1 18,900 <subtotalItem>18,900</subtotalItem>
+<namaItem>KANTONG PLS M</namaItem>
+Oisc.
+Total Item 3 29,101
+Total Disc.
+Total Belanja <totalPembayaran>29,100</totalPembayaran>
+Tunai 50,000
+Kenbalian 20,900
+PPN 2,645)
+Tgl. 08-06-2017 13:53:56 V.2017,4.3
+Kritik & Saran Hun. Telp. 1500959
+Sms 0817111234 www.alfanartka con-

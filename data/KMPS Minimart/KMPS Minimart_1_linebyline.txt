@@ -1,0 +1,41 @@
+12.11.2018 09:19 a KWPS-O0147672
+KMPS MINIMART
+31.Gegerkalong hilir Ds.Ciwaruga
+TELP.0222014087/085795563510
+Cashier: Lina
+Bill To: Tunai
+Description %Sub Total
+8999909172234
+<namaItem>CHOKI CHOKI COK 30 X 11G</namaItem>
+2 Fcs 1,000 0 <subtotalItem>2,000</subtotalItem>
+8991115012106
+<namaItem>BIG BABOL STRWBERY 20GR</namaItem>
+1 Pcs 2,500 0 <subtotalItem>2,500</subtotalItem>
+8998685171004
+<namaItem>NANO-NANO NOUGAT STRAWBERY</namaItem>
+1 Pcs 2,500 0 <subtotalItem>,500</subtotalItem>
+36600640023
+1 Pcs 3,500 0 <subtotalItem>3,500</subtotalItem>
+8992775112137
+<namaItem>GARUDA KACKULIT RS BAMANG 100</namaItem>
+1 Pcs 8,500 O <subtotalItem>8,500</subtotalItem>
+8392388101016
+<namaItem>NU GRENTE ORG24X SODML</namaItem>
+1 Pcs 6,000 0 <subtotalItem>6,000</subtotalItem>
+<namaItem>MASKER HIJAU</namaItem>
+1 Pcs 1,000 O
+8991771200329
+<namaItem>VITASIMIN VITAMIN C 30OMG</namaItem>
+1,000
+1 Pcs 1,500 O
+9 Itea Sub Total: <totalPembayaran>27 560</totalPembayaran>
+Discount:
+TAX: O
+0ther Paysent: 27,500 0
+Receipt Total:
+Uang Muka 0
+Paysent Taken:
+Change Givenz 22,500
+30,000
+Payaent Method: Cash Payment
+TERINA KASIM

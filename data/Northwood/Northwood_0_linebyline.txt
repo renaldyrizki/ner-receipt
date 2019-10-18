@@ -1,0 +1,18 @@
+NORTH WOOD COFFEE
+Jl. Gegerkalong Hilir No.
+179 Bandung
+Bill :201904250089
+Waiter : Kasir
+asir : asir
+Tanggal 25/04/2019
+Jam :23:09
+eja :16
+<namaItem>Vietnam Drip NCI Lh Wod</namaItem>
+1  <subtotalItem>18.000</subtotalItem>
+SUBTOTAL 1 Rp 18.000
+PPN (10%)  1.800
+Rp O
+CRAND TAL Rp <totalPembayaran>19.800</totalPembayaran>
+Cash Rp 50.00
+Kembalian Rp 30.20
+ERIMA KAS IH

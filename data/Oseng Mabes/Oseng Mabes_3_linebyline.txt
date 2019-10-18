@@ -1,0 +1,23 @@
+Useng Mabes
+0222020182
+DETAIL PEMBAYARAN
+Nota 0319040315835
+Kasir Kasir Mabes
+Tgl 03 April 2019
+Jam 20:21:35
+Meja M014
+Telp
+<namaItem>Oseng Mercon</namaItem>
+1 x 17.000 <subtotalItem>17.000</subtotalItem>
+<namaItem>Nasi</namaItem> <subtotalItem>5.000</subtotalItem>
+1 x 5.000
+<namaItem>Teh Tawar Dingin</namaItem>
+1 x 4.000 <subtotalItem>4.000</subtotalItem>
+26.000
+SUBTOTAL
+PPN (0%)
+SERVICE (0%)
+GRAND TOTAL <totalPembayaran>26.000</totalPembayaran>
+CASH 50.000
+Kembalian 24.000
+TERIMA KASIH

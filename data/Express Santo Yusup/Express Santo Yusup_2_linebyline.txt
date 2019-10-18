@@ -1,0 +1,16 @@
+EXPRESS SANTO YUSUP
+PT. AKUR PRATAMA
+JP. REVOLUSI 15 JAKTIM
+NPWP 01.555.189.8-007.000
+PENJUALAN 0312 00001 9806 23/03/19
+312104 19:46:31
+<namaItem>YOCHCFRCHCUNGD</namaItem> 1 9,000 <subtotalItem>9,000</subtotalItem>
+<namaItem>CF NS PUTIH (YE</namaItem> 1 5,000 <subtotalItem>5,000</subtotalItem>
+<namaItem>TE SEDUH</namaItem> 1 4,500 <subtotalItem>4,500</subtotalItem>
+TOTAL <totalPembayaran>18, 500</totalPembayaran>
+TUNAI 20,000
+KEMBALI 1,500
+Harga sudah termasuk PPN
+***TERIMAKASIH ATAS KUNJUNGAN ANDA*
+UNTUK BARANG KENA PAJAK
+HARGA SUDAH TERMASUK PPN

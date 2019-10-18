@@ -1,0 +1,14 @@
+ASIAN GRILI
+DAIE 17/07/2018 TUE TIME 13:32
+#30
+<namaItem>Korean BBQ Rice</namaItem> <subtotalItem>34,000</subtotalItem>
+<namaItem>lapanese Rice Bow</namaItem> <subtotalItem>34,000</subtotalItem>
+NO MEJA
+2.00xITEMS
+CHECKS PAID 68,000
+TOTAL <totalPembayaran>68,000</totalPembayaran>
+CASH 100,000
+CHANGE 32,000
+CHK # : 1
+Thank You !!
+Puput F

@@ -1,0 +1,23 @@
+ALFAMART CIHARUGA
+081294658759
+CV OEZANK PRODUCTION
+JL.TERUSAN GEGER KALONG HILIR NO.37.
+NPWP 02.761.044.3-421.000
+ALFAMART CIWARUGA
+081294658759
+CV OEZANK PRODUCTION
+JL.TERUSAN GEGER KALONG HILIR NO.37.
+NPWP 02.761.044.3-421.000
+Bon N177-504-27049Z54 Kasir : NENG AME
+<namaItem>KP BRANDING M</namaItem> 1 200 <subtotalItem>200</subtotalItem>
+<namaItem>DJARUM CKT 12</namaItem> 1 13,700 <subtotalItem>13,700</subtotalItem>
+<namaItem>DJISAMSOE 12</namaItem> 2 18,000 <subtotalItem>36,000</subtotalItem>
+<namaItem>ABC KOPISUSU1OS</namaItem> 1 13,200 <subtotalItem>13,200</subtotalItem>
+<namaItem>INDOCAFE MIX10S</namaItem> 1 13,000 <subtotalItem>13,000</subtotalItem>
+Total Iten 5 <totalPembayaran>76, 100</totalPembayaran>
+Tunai 76, 100
+Kembalian 0
+PPN ( 2,400)
+Tgl 27-04-2019 07:16:21 V.2019.1.0
+Kritik & Saran Hub. Telp. 1500959
+Sms 0817111234 Www.alfamartku.com

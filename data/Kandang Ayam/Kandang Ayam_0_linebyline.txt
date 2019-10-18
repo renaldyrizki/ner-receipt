@@ -1,0 +1,48 @@
+kandang dvam tapa
+Bandung Kota, Jdvd Bara!
+Indunesia
+Waktu Penjualan Kasi
+Mar 15, 2019 12-58 AME
+# 9/8B19031500004266 6 Tamu
+Item Jum an
+DINI N7
+Nas
+<namaItem>Rice Kansas BBQ Laige
+23.500 x1 23.500
+Nas
+<namaItem>Rice Italy Marinara</namaItem>
+23.50 <subtotalItem>23.500</subtotalItem>
+Crispzza
+<namaItem>Crispa2a Buinng Che</namaItem>
+35 000 x <subtotalItem>35 000</subtotalItem>
+Nasi geprek
+<namaItem>Geprek Samba 110</namaItem>
+16 500 x2 <subtotalItem>33.000</subtotalItem>
+Nas geprek
+<namaItem>Geprek Samb</namaItem>
+6.500
+Pasta
+<namaItem>Creamy Mush.</namaItem>
+18.500
+MILKSHAKE
+<namaItem>Sweet Crunch</namaItem>
+Ib u
+18 000
+Common Drinks
+<namaItem>CE Lemon tea, Ice</namaItem>
+8.000 3 <subtotalItem>24.000</subtotalItem>
+Common Drinks
+<namaItem>Coca cola</namaItem>
+8.000 x2 <subtotalItem>16.000</subtotalItem>
+Additional
+<namaItem>Saus Mushrout Espagnole</namaItem>
+00
+5 000 *1
+Subtotal <totalPembayaran>213 000</totalPembayaran>
+BI 10% 21.300
+Grand Total Rp 734.300
+CASH Ro 235 000
+Kembalian Rp 00
+meh
+Dilayani Oleh:SABIA
+PowEred by 0lsera POS

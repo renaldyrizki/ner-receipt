@@ -1,0 +1,26 @@
+Useng Mabes
+J1. Sarimanah
+0222020182
+DETAIL PEMBAYARAN
+Nota:0319033015419
+Kasir Indah
+Tgl 30 Maret 2019
+Jam 19:35:05
+Meja MO01
+Telp
+<namaItem>Ayam Bakar Granat</namaItem>
+1 x 11.000 <subtotalItem>11.000</subtotalItem>
+<namaItem>Ayam Bakar Halilintar</namaItem>
+1 x 11.000 <subtotalItem>11.000</subtotalItem>
+<namaItem>Nasi</namaItem> <subtotalItem>15.000</subtotalItem>
+3 x 5.000
+<namaItem>Teh Manis Dingin</namaItem>
+1 x 6.000 <subtotalItem>6.000</subtotalItem>
+SUBTOTAL 43.000
+PPN (0%)
+SERVT
+GRAND TOTAL <totalPembayaran>43.000</totalPembayaran>
+CASH 100.000
+Kembalian
+57.000
+MA KASIH

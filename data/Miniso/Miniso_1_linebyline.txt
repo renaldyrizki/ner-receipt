@@ -1,0 +1,29 @@
+Welcone lo MINISO
+NPWP:ID2B
+Company Name:PT.SHANGHAI M1NGCH
+UANG INTERNASIONAL
+Bandung Indah Plaza
+Serial No. :20190310005b
+POS NO.:ID2B
+Cashier:ID2B04[ ID2B04]
+Sales
+Goods code U/P Qty Amt
+<namaItem>2016 MINISO Paper Shoppine Bag M</namaItem>
+0800019201 3000 1 <subtotalItem>3000</subtotalItem>
+<namaItem>Round Bucket Bay (Black)</namaItem>
+0800022841 59900 1 <subtotalItem>59900</subtotalItem>
+TAX-Excl 2
+57181.81
+TAX 5718.19
+Discount Price O
+TOTAL <totalPembayaran>62900.00</totalPembayaran>
+CashRp 63,000
+Change 100
+Date:2019-03-10 15:05: 15
+We are looking for ylobal
+Cooperation.
+Get in touch with us
+customerservice.id@miniso.c COM
+0813 8888 0966
+COOPERATION HOTLINE
+0800 100 1138

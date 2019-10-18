@@ -1,0 +1,18 @@
+PT. HARJA
+GUNATANA LESTRI
+Kosp. Setrasari Mall II Xav.A-7 BDG
+0267-441.000
+RORNA TOSERBA DAKOTA
+Phone022-6027626
+PC:15DK/KASSAD
+07B831 <namaItem>SELECTION KAPAS 35 ER</namaItem>
+<subtotalItem>15,200</subtotalItem>
+0017432 <namaItem>TRESENHE SHP A.HAIR FALL</namaItem>
+<subtotalItem>23,500</subtotalItem>
+0233078 <namaItem>GILLETTE BLUE II PLUS I C</namaItem>
+<subtotalItem>18,000</subtotalItem>
+Total <totalPembayaran>36,700</totalPembayaran>
+Bayar 50,000
+Kembali 13,300
+Barang Kena Pajak Sudah Termasuk PP
+ai.Cl/49309No/11.04.2019 17:33:29

@@ -1,0 +1,11 @@
+D' BESTO CH1CKEN & BURGER
+J SARIMANAH RAYA NO. 19C
+TONY 089602833507
+TONY 087823980651
+REG 19- 03-2019 1:49
+RISKA SITA M 000065
+<namaItem>PRETO2 TA PB</namaItem> <subtotalItem>13, 000</subtotalItem>
+<namaItem>SPAGHETTI TA</namaItem> <subtotalItem>11, 000</subtotalItem>
+TL <totalPembayaran>24,000</totalPembayaran>
+24,000
+CASH

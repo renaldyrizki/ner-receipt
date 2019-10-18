@@ -1,0 +1,18 @@
+SARIWANGI 3 / 081294659113
+PT.SUMBER ALFARIA TRIJAYA, TBK
+ALFA TOWER LT. 12, ALAM SUTERA, TANGERANG
+NPWP 01.336.238.9-054.000
+Bon N692-222-28029YD8 Kasir IKA APRI
+<namaItem>SAMPOERNA MRH12</namaItem> 1 17,100 <subtotalItem>17,100</subtotalItem>
+<namaItem>SARIWANG! ASL25</namaItem> 1 5,800 <subtotalItem>5,800</subtotalItem>
+<namaItem>TARO NET SHD36G</namaItem> 2 5,200 <subtotalItem>10,400</subtotalItem>
+KP BRANDING M 1 1
+Disc. -1
+Total Item 4 <totalPembayaran>33,301<totalPembayaran>
+Total Disc. 1
+Total Belanja 33, 300
+Tunai 50,000
+Kerbalian 16,700
+PPN 1,473)
+Tgl. 28-02-2019 18:16:12 V.2019.1.0
+Kritik&Saran:1500959, SMS: 0817111234

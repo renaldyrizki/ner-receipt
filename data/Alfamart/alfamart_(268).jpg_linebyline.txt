@@ -1,0 +1,18 @@
+ALFAMART CIWARUGA
+81294658759
+CV OFZANK PRODUCTION
+JL.TERUSAN GEGER KALONG HILIR NO.37.
+NPWP 02.761.044.3-421.000
+Bon N177-303-2104ZV43 Kasir : TATI HAR
+<namaItem>PEPSO ECO 225</namaItem> 1 13,200 <subtotalItem>,200</subtotalItem>
+Disc. -3,300
+<namaItem>KIS CRY 125G</namaItem> 1 8,400 <subtotalItem>8,400</subtotalItem>
+Disc. -3,400
+<namaItem>KP BRANDING S</namaItem> 1 200 <subtotalItem>200</subtotalItem>
+Total Item 3 21,800
+Total Disc. 6,700
+Total Belanja <totalPembayaran>15,100</totalPembayaran>
+Tunai 15,100
+Kenbalian 0
+PPN ( 1,709)
+Igl. 21-04-2019 07:38:5.2019.1.0

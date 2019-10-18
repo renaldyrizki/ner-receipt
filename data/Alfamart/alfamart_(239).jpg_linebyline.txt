@@ -1,0 +1,11 @@
+Bon N177-504-21044522 Kasir : NENG AME
+<namaItem>KP BRANDING S</namaItem> 1 200 <subtotalItem>200</subtotalItem>
+<namaItem>CMP HH K.HJ50ML</namaItem> 2 4,700 <subtotalItem>9,400</subtotalItem>
+<namaItem>ULTRA FC 250ML</namaItem> 1 6,300 <subtotalItem>6,300</subtotalItem>
+Total Item 3 <totalPembayaran>15,900</totalPembayaran>
+Tunai 20,000
+Kembalian 4,100
+PPN 1,445)
+Tgl. 21-04 2019 16:58:30 V.2019.1.0
+Kritik & Saran Hub. Telp. 1500959
+Sms 0817111234 www.alfamartku.com

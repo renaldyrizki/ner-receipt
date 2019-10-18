@@ -1,0 +1,18 @@
+ALFAMART CIHARUGA
+081294658759
+CV OEZANK PRODUCTION
+JL.TERUSAN GEGER KALONG HILIR NO.37
+NPWP 02.761.044.3-421.000
+Bon N177-505-06047TUZ Kasir RESTI FI
+<namaItem>NU TEH TRK330ML</namaItem> 1 6,900 <subtotalItem>6,900</subtotalItem>
+Disc. -400
+<namaItem>NIVEA M B&H 50</namaItem> 1 18,500 <subtotalItem>18,500</subtotalItem>
+Total Item 2 25,400
+Total Disc. 400
+Total Belanja <totalPembayaran>25,000</totalPembayaran>
+Tunai 50,000
+Kerbalian 25,000
+PPN ( 2,273)
+Tgl. 06-04-2019 21:51:24 V.2019.1.0
+Kritik&Saran Hub. Te p. 1500959
+Sns 0817111234 WAH, alfanartku com

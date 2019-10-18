@@ -1,0 +1,23 @@
+on N177-401-2204V8V8 Kasir : OKI RIVA
+<subtotalItem>10,900</subtotalItem>
+1 10,900
+<namaItem>ANADOL EXT 10S</namaItem>
+isc. -600
+<namaItem>ANADOL 10S</namaItem>
+isc. -500
+1 9,800
+<subtotalItem>9,800</subtotalItem>
+20,700
+1,100
+<totalPembayaran>19,600</totalPembayaran>
+50,000
+30,400
+otal Iten 2
+otal Disc
+otal Belanja
+unai
+embalian
+PN (1,882)
+l,22-04-2019 18:53:56 V.2019.1.0
+Kritik&Saran lub. Telp. 1500959
+STus 0817111234 www.alfamartku.con

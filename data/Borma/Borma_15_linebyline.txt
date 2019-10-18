@@ -1,0 +1,24 @@
+BORMA TOSERBA
+JL. TERS. JAKARTA 53A
+Phone:(02217272000
+03.05.2019
+PC:IAN/KASSA9
+5692031 <namaItem>STANDAR BUKU YOEKER 88</namaItem>
+<subtotalItem>19.500</subtotalItem>
+5380404 <namaItem>LOOSE LEAF KIKY COLLEG</namaItem>
+<subtotalItem>10.500</subtotalItem>
+5275100 <namaItem>MEJA GAMBAR LIPAT (HJ)</namaItem>
+026.500 =
+<subtotalItem>153.000</subtotalItem>
+T067010 <namaItem>KASUR BUSA KWILTING 11</namaItem>
+<subtotalItem>18i.000</subtotalItem>
+==
+*<totalPembayaran>264.000</totalPembayaran> ST
+1270.000 CA
+*6.000 CH
+INA.CI 26316.No 16:20:36
+( BARANG KENA PAJAK SUDAH TERMASUK PPN
+) TERINA KASIH
+- PT HARJA GUNATANA LESTARI-
+konp, Setrasari Mail II Kay.A-7, Bandung
+07.244.696.7-441.000

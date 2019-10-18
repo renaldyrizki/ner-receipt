@@ -1,0 +1,29 @@
+Welcome To MINISO
+NPWP:80.324.697.4-034.000
+Company Name:PT.MINISO INTERNAS
+IONAL COMPANI
+Istana Plaza
+6923044787567
+Serial No.:201903110079
+POS NO. ID65a
+Cashier: ID6504TID65041
+Sales
+Goods code U/P Qty Amt
+<namaItem>We Bare Bears Waste Bin</namaItem>
+0100044211 29900 1 <subtotalItem>29900</subtotalItem>
+TAX-Excl 1
+27181.82
+2718.18
+0
+TOTAL <totalPembayaran>29900.00</totalPembayaran>
+Discount Price
+CashRp 50,000
+Change 20,100
+Date:2019-03-11 14:03:40
+We are looking for global
+Cooperation.
+Get in touch with us.
+customerservice.id@miniso.com
+0813 8888 0966
+COOPERATION HOTLINE
+0800 100 1138

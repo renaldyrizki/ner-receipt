@@ -1,0 +1,19 @@
+ALFAMART CIWARUGA
+022-2001649
+NPWP 02.761.044.3421.0
+Bon Ni77-505-13067MKZ Kasir:LILY
+KANTONG PLS L
+Disc. -1
+<namaItem>LAURIER SC NG13</namaItem> 1 20,000 <subtotalItem>20,000</subtotalItem>
+<namaItem>HB YOG STR 200M</namaItem> 1 10,000 <subtotalItem>10,000</subtotalItem>
+<namaItem>WALL'S CNT BW1</namaItem> 1 7,800 <subtotalItem>7.800</subtotalItem>
+<namaItem>MY ROT MN KRM</namaItem> 1 6,000 <subtotalItem>6,000<subtotalItem>
+Total item 43,801
+Total Disc.
+Total Belanja <totalPembayaran>43.800</totalPembayaran>
+Tunai 50.000
+Keibalian 6,200
+PPN 3,982)
+Tgi. 13-06-2017 21:52:08 V.2017.4.3
+Kritik & Saran Hub. Teip, 1500959
+S (017111'91 :* oay tia

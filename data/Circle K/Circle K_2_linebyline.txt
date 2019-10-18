@@ -1,0 +1,35 @@
+UK Karet Pedurenan
+PT. CIRELEKA INDONESIA UTAHA
+NPHP 02.079.744.5-007.
+Jl. Raya Jatinega a Barat o. 124
+JAK0365.05.20190227.0436
+28/02/19 00:21 Arman Syahri
+TER
+<namaItem>FRESTEA APEL</namaItem> 1 7,000 <subtotalItem>7,000</subtotalItem>
+<namaItem>YAKULT BANDE</namaItem> 1 10,000 <subtotalItem>10,000</subtotalItem>
+Tot Disc Prod R
+1,000
+<namaItem>FRESTEA MARK</namaItem> 1 7,000 <subtotalItem>7,000</subtotalItem>
+TOTAL SALES L3/3] Rp <totalPembayaran>23,000</totalPembayaran>
+CASH
+TOTAL CHANGE
+Rp 50,000
+DPP 20,909 PPN 2,091
+BKP SUDAH TERMASUK PPN
+Donation For PAC BALI
+THANK YOU FOR SHOPPING AT CIRCLE K
+Emai :servicedcirclek indonesia.com
+SMS Hotline : 08.179000053
+Instagram:acirce kindonesi a
+PoS Palapa Ver. 2210-1810L10700
+AI
+sileasca 151616121 8EXP0322 -
+DbCS
+61200 m322
+CCC,004/17
+151616121E ET VIP
+CIRCLE K
+CIRCLE K
+CIRCLE K
+2
+: )

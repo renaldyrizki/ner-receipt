@@ -1,0 +1,22 @@
+d'Beste |ehk en &burY
+Resto Ciwaruga
+J1. Ciuaruga No. 2 Parongpong Bandung
+082154744978
+No : ED0973567
+Date 09-04-2019 20:26
+Kasir yaya1
+<namaItem>Paket Lubis 1 Dada TA</namaItem>
+15.500 x 2 <subtotalItem>31.000</subtotalItem>
+<namaItem>Ayan Prekto Dada TA</namaItem>
+15.000 x 2 <subtotalItem>30.000</subtotalItem>
+<namaItem>Nasi TA</namaItem>
+4.500 x 2 <subtotalItem>9.000</subtotalItem>
+<namaItem>Teh Kotak TA</namaItem>
+4.500 x 2 <subtotalItem>9.000</subtotalItem>
+<namaItem>Air Mineral TA</namaItem>
+3.000 x 1 <subtotalItem>3.000</subtotalItem>
+<namaItem>Milo TA</namaItem>
+7.000 x 1 <subtotalItem>7.000</subtotalItem>
+Rp <totalPembayaran>89.000</totalPembayaran>
+BAYAR Rp 100.000
+TUNAI RP 11.000

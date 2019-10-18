@@ -1,0 +1,33 @@
+Nelcome TO MINISU
+Istana Plaza
+NPWP 80.324.697.4-034.000
+Serial No. :9
+PUS NO.:002911
+Cashier :SILVIA[00291106]
+Sales.
+Goods code U/P Qty Amt
+<namaItem>Solid Color U-shaped Pillow(Yell</namaItem>
+0300009583 49900 1 <subtotalItem>49900</subtotalItem>
+<namaItem>Solid Color U-shaped Pil1ow(Blue</namaItem>
+0300009584 49900 1 <subtotalItem>49900</subtotalItem>
+<namaItem>Simple Glass Bottle 300m1 (Pink)</namaItem>
+0100037663 49900 1 <subtotalItem>49900</subtotalItem>
+<namaItem>We Bare Bears Glass Water Bottle</namaItem>
+0100037541 49900 1 <subtotalItem>4900</subtotalItem>
+Total
+Piece 199,600
+Payment <totalPembayaran>199,600</totalPembayaran>
+Discount Price
+Cash Rp 200,000
+Change
+TAX-Rate TAX-Exc1 TAX-Amt
+400
+10% 181455.36 18143.64
+Date:2018-07-24 19:28:35
+We are looking for global
+franchisees.
+Get in touch with us
+customerservice.ideminiso.com
+0813 8888 0966
+FRANCHISE HOTLINE
+0800 100 1138

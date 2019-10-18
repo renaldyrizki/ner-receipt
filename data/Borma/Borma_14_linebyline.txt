@@ -1,0 +1,22 @@
+PT. HARJA GUNATAMA LESTARI
+Keep. Setrasari Mall II Kav.A-7 BDG
+02.244.696.7-441.000
+BORMA TOSERBA Pasir Iapun
+PhonE 022-7275460
+PC:30PI/KASSA 7
+0610101 <namaItem>ROSE ERAND MINYAK GORENG</namaItem>
+10,900
+0682157 <namaItem>ROYCO BUMBU RASA SAPI 230</namaItem>
+18,800
+0681556 <namaItem>LA FONTE FETTUCCINE 225 G</namaItem>
+$7,400
+0630750 <namaItem>DELMONTE SPASHETTI SAUCE</namaItem>
+t7,800
+0172229 <namaItem>VITACIMIN SWEETLET 2S</namaItem>
+51,500= 4,500
+3
+Total <totalPembayaran>7,400</totalPembayaran>
+Bayar 100,000
+Kembali 60,600
+Barang Kena Pajak Sudah Termasuk PPN
+ang.Cl/29366.No/07.04.2019 16:52:10

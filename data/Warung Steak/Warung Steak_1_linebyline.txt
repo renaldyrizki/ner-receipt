@@ -1,0 +1,23 @@
+WAROENG GROUP
+. Prof. DR. I. Sutami No.23, Sarijaci, Sukasari
+Gegerkalong, Kota Bandung
+Telp. 0822-4252-0000
+http.//www.waroengsteakandshake.com
+Kasir Andri Sonjaya
+No. Order 21588-001-0028
+Paymet Ref :
+Tgl Jam 5/29/2019 7:00:01 PM
+No. Meja 31
+<namaItem>Sirloin Double</namaItem> 3 <subtotalItem>100,909</subtotalItem>
+<namaItem>Chicken Cordon Blue</namaItem> 1 <subtotalItem>29,090</subtotalItem>
+<namaItem>Teh Manis</namaItem> 4 <subtotalItem>27,272</subtotalItem>
+Jumlah 157,272
+Diskon
+Vouche
+Pajak 10% 15,727
+Total <totalPembayaran>172,999</totalPembayaran>
+Kas Outlet Sutami
+190,000
+Bandung (IDR):
+Kembali 17,000
+TERIMA KASIH ATAS KUNJUNGAN ANDA

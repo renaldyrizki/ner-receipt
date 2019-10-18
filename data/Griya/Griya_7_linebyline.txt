@@ -1,0 +1,45 @@
+TOSERBA GRIYA
+J1. DR. DJUNDJUNAN 115 BANDUNG
+PT.AKUR PRATAMA
+NPWP: 01.555.189.8-007.000
+JL.P.Revolusi 15 Jaktim
+http://www.toserbayogya.com
+RP
+KRESEK HD 28 CETAK 200
+Free 200-
+<namaItem>YOA SHOESTRING 500GR 19.950
+HEMATO? Disc.15% 2.992-
+0.526X 18.500
+<namaItem>JERUK BARY 9.731
+Cermat 13 RP.15750 1.447
+<namaItem>YG FLN LLT COK 55 GR</namaItem> <subtotalItem>7.000</subtotalItem>
+0.096X 42.500
+<namaItem>AYAM HATI (KG)</namaItem> <subtotalItem>4.080</subtotalItem>
+Fromo Discount 10% 408-
+0.128X 27.200
+<namaItem>AYAM KAKI</namaItem> <subtotalItem>3.481</subtotalItem>
+Promo Discount 10% 348-
+0.070X 138.500
+<namaItem>SAPI CINCANG SPECIAL</namaItem> <subtotalItem>9.695</subtotalItem>
+Promo Discount 10% 969-
+0.18AX 45.950
+<namaItem>BROKOLI</namaItem> <subtotalItem>8.638</subtotalItem>
+Promo Discount 10% 863-
+2X 8.950
+<namaItem>SAKURA TOFU REG240</namaItem> <subtotalItem>17.900</subtotalItem>
+<namaItem>TRI L GRAPE CUF 175</namaItem> <subtotalItem>6.600</subtotalItem>
+<namaItem>KARA SR.KLP CCPDN360</namaItem> <subtotalItem>6.100</subtotalItem>
+HEMATO7 Disc.10% 610
+<namaItem>KRESEK HD 22 POLOS</namaItem> <subtotalItem>200</subtotalItem>
+Free 200-
+0.522 22.500 t
+<namaItem>TELUR AYM NEGERI TBG</namaItem> <subtotalItem>11.745</subtotalItem>
+SUBTOTAL 97.283
+TOTAL <totalPembayaran>97.283</totalPembayaran>
+CASH 100.000
+CHANGE DUE 2.717
+TOTAL DIRECT DISC: 8.037
+NO. OF DISC. LINES: 9
+** TERIMA KASIH ATAS KUNJUNGAN ANDA *
+Utk barang kena pajak harga termasuk PP:
+Mc:6 57048 162511 04/04/19 18:24

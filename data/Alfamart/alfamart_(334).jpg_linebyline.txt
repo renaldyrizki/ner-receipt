@@ -1,0 +1,23 @@
+ALFAMART CIWARUGA
+081294658759
+CV OEZANK PRODUCTION
+JL. TERUSAN GEGER KALONG HILIR NO.37.
+NPHP 02.761.044.3-421.000
+ALFAMART CIWARUGA
+081294658759
+CV OEZANK PRODUCTION
+JL.TERUSAN GEGER KALONG HILIR NO.37.
+NPWP : 02.761.044.3-421.000
+Bon N177-505-27043ZVX Kasir RESTI FI
+<namaItem>MY ROTI CKT 58G</namaItem> 1 3.000 <subtotalItem>3,000</subtotalItem>
+<namaItem>FF PF CKT 225ML</namaItem> 1 5,900 <subtotalItem>5,900</subtotalItem>
+<namaItem>CPTON EXT CLN</namaItem> 1 3,700 <subtotalItem>3,700</subtotalItem>
+<namaItem>KP BRANDING M</namaItem> 1 200 <subtotalItem>200</subtotalItem>
+Total Item 4 <totalPembayaran>12,800</totalPembayaran>
+12, 800
+Kenbalian 0
+Tunai
+PPN (1,164)
+Tgl. 27-04-2019 20:29:42 V.2019.1.0
+Kritik & Saran Hub. Telp. 1500959
+CS SHS U917111234 Www.alfamartku.com CSScanned with CamScanner

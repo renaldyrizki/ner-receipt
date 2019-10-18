@@ -1,0 +1,36 @@
+Bon N177-505-27043YX Kasir : RESTI FL
+<namaItem>KP BRANDING L</namaItem> 1 200 <subtotalItem>200</subtotalItem>
+1 7,800 <subtotalItem>7,.800</subtotalItem>
+3 7,.900 <subtotalItem>23,700</subtotalItem>
+<namaItem>HATARI SHP 260G</namaItem>
+<namaItem>BISKIES CHO108G</namaItem>
+Disc. -7,900
+<namaItem>GM LMN MD450ML</namaItem> 1 5,500 <subtotalItem>5,500</subtotalItem>
+Disc. -600
+<namaItem>ICHITAN MC310ML</namaItem> 1 7,500 <subtotalItem>7,500</subtotalItem>
+<namaItem>ASIA ATB 185G</namaItem> 1 7,300 <subtotalItem>7,300</subtotalItem>
+<namaItem>INDOMIE KOYA75G</namaItem> 5 2,600 <subtotalItem>13,000</subtotalItem>
+Disc. -2,300
+<namaItem>ULTRA CKT 200ML</namaItem> 5,500 <subtotalItem>5,500</subtotalItem>
+<namaItem>ANTANGIN MINT15</namaItem> 3,600 <subtotalItem>3,600</subtotalItem>
+Disc. 700
+<namaItem>LANG K.PTH 30ML</namaItem> 1 14,900 <subtotalItem>14,900</subtotalItem>
+Disc. -3,000
+<namaItem>STAMP RVKB MSK</namaItem> 2 <subtotalItem>2 </subtotalItem>
+Disc. -2
+<namaItem>INDFO EP 335ML</namaItem> 1 14,200 <subtotalItem>14,200</subtotalItem>
+Disc. -4,200
+Anda mendapatkan
+Stamp Fisik Alfanart RVKB Peralatan Masa
+2 Stamp Utama
+Total Item 12 103,202
+Total Disc 18,702
+Total Belanja <totalPembayaran>84,500</totalPembayaran>
+Tunai 100,000
+KeTbalian 15,500
+PPN ( 9,018)
+Tgl 27-04-2019 17:49:48 V.2019.1.0
+Lengkapi Gambar Berhadiah
+Kode Gambar : D
+Hadiah (ALBI 500rb, Lengkap 5jt)
+Kode Unik 8AFEBF8852

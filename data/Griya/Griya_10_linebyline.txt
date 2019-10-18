@@ -1,0 +1,23 @@
+TOSERBA GRIYA
+Jl. Kiaracondong 175 BANDUNG
+PT. AKUR PRATAMA
+NPWP:01.555.189.8-007.000
+JL.P.Revolusi 15 Jaktim
+http://www.toserbavogya.com
+3X 5.850 Rp
+<namaItem>KGMALKISTSLTCKLT120</namaItem> <subtotalItem>17.550</subtotalItem>
+BUY 2 GET 1 FREE 5.850-
+2X 2.250
+<namaItem>INDOMILK KIDSTRAW115</namaItem> <subtotalItem>4.500</subtotalItem>
+2X 2.250
+<namaItem>INDOMILK KIDCHOC115M</namaItem> <subtotalItem>4.500</subtotalItem>
+<namaItem>GAGA 100 KH SOTO 75G</namaItem> <subtotalItem>2.250</subtotalItem>
+5X 2.125
+<namaItem>INDOMIE AYAM BAWANG</namaItem> <subtotalItem>10.625</subtotalItem>
+<namaItem>KRESEK HD 28 CETAK</namaItem> <subtotalItem>200</subtotalItem>
+Free 200-
+5X 2.250
+<namaItem>INDOMIE GORENG</namaItem> <subtotalItem>11.250</subtotalItem>
+<namaItem>INDOMILK KIDMANIS115</namaItem> <subtotalItem>2.250</subtotalItem>
+0.998X 19.500
+<namaItem>TELUR ,A NEGERI TBG</namaItem> <subtotalItem>19.461</subtotalItem>

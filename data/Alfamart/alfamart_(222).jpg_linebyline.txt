@@ -1,0 +1,21 @@
+ALFAMART CIWARUGA
+081294658759
+CV OEZANK PRODUCTION
+JL. TERUSAN GEGER KALONG HILIR NO.37.
+NPWP 02.761.044.3-421.000
+Bon N177-505-1804H745 Kasir : RESTI FI
+<namaItem>KP BRANDING S</namaItem> 1 200 <subtotalItem>200</subtotalItem>
+<namaItem>FRESTEA MR500ML</namaItem> 1 6,200 <subtotalItem>6,200</subtotalItem>
+Disc -300
+<namaItem>FRESTEA GM500ML</namaItem> 1 6,300 <subtotalItem>6,300</subtotalItem>
+<namaItem>FORTE ORI 20</namaItem> 1 15,000 <subtotalItem>15,000</subtotalItem>
+Total Item 4 27,700
+Total Disc 300
+Total Belanja <totalPembayaran>27,400</totalPembayaran>
+Tunai 100,000
+Kembalian 72,600
+PPN 1,27)
+Tgl. 18-04-2019 14:42:16 V.2019.1.0
++
+Kritik & Saran Hub. Telp. 1500959
+SITS 0817111234 www.alfanartku con

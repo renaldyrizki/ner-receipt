@@ -1,0 +1,35 @@
+134
+Ristero ardery
+DELIVERY OHOEH
+1500220
+RICHEESE FACTORY
+JL. Otista No, 78 RT/RW 043/011
+Kel. Karanganyar Kec, Subang
+Kab. Subang Jawa Barat
+02604241833
+Dale 24/4/2019 12:33:55
+Receipt No RC0424042019/00046
+Bill Ref No.:583000077
+Staff Open Table: Motik Pratiwi
+Cashier:Motik Pratiw
+No Customer:1 DINE IN
+<namaItem>COMBO FIRE CHICKEN</namaItem> 2 <subtotalItem>69,090</subtotalItem>
+<namaItem>- OR FIRE CHICKEN</namaItem> 2 <subtotalItem>0</subtotalItem>
+<namaItem>- BBQ SAUCE LEVEL 4</namaItem> 1 <subtotalItem>0</subtotalItem>
+<namaItem>- BBQ SAUCE LEVEL5</namaItem> 1 <subtotalItem>0</subtotalItem>
+<namaItem>- RICE</namaItem> 2 <subtotalItem>0</subtotalItem>
+<namaItem>- PINK LAVA 16OZ</namaItem> 2 <subtotalItem>0</subtotalItem>
+<namaItem>MILK CHOCOLATE</namaItem> 1 <subtotalItem>10,909</subtotalItem>
+ITEMS: 3 79,999
+Tax 10% 8,000
+Before Rounding 87,999
+Rounding 1
+Total <totalPembayaran>88,000</totalPembayaran>
+CASH 100,000
+Change 12,000
+Before VAT:
+80,000
+VAT:10.00 % 8,000
+Amount Net: 88,000
+Avg/Head 88,000
+21122

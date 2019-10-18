@@ -1,0 +1,31 @@
+BORMA SUPERNARKE?
+JL.SETIABUH 149
+Ph: 2033445-2032255
+06.11.2018
+PC:05S/KASSA H
+0492983 <namaItem>2 KELINCI KRIP.TORTILA</namaItem>
+*<subtotalItem>.500</subtotalItem>
+0143936 <namaItem>PIXY LIP MATTE LOVE 40</namaItem>
+<subtotalItem>34.400</subtotalItem>
+0481494 <namaItem>GLICO PRETZ PEDAS 33 G</namaItem>
+<subtotalItem>6.200</subtotalItem>
+0023304 <namaItem>LIFEBUOY B.W LENON FR</namaItem>
+*<subtotalItem>13.500</subtotalItem>
+0015723 <namaItem>SUNSILK SHP HIJAB A.DA</namaItem>
+$<subtotalItem>G.600</subtotalItem>
+0047634 <namaItem>ACNES DEEP PORE CLEAN</namaItem>
+<subtotalItem>16.500</subtotalItem>
+1077041 <namaItem>JOYKO GEL PEN GP 257</namaItem>
+$<subtotalItem>3.000</subtotalItem>
+0071995 <namaItem>PASED MINI ANI MAL TRAY</namaItem>
+<subtotalItem>24.700</subtotalItem>
+*<totalPembayaran>93.400</totalPembayaran> ST
+*100.000 CA
+O CH
+&17
+SANTI CE7477,.
+( BARANG KENA PASK SUDA TERMASUK PPN
+TERIMA KASIN
+PT HARJA GUNATA LESTAR
+Koas. Setrasari a kav.A-7, Bandune
+02.244.67-.0

@@ -1,0 +1,39 @@
+V BHERSA TRISULA
+R SOMAWINATART 02/RW 02
+3ANDUNG BARAT
+PWP 80.711 763 5 421.000
+Frdemaret
+SOMANINATA - BANDUNG 08889424273
+2.04.19-11:43
+2.1.42 7217/SARIPAH/0
+<namaItem>AQUA AIF NGRAL 1500</namaItem>
+<namaItem>LAURIER RLX NGH 8/30</namaItem>
+<namaItem>UISHI SPNG/C CHO 120</namaItem>
+<namaItem>ROMA MLKST COKLT 120</namaItem>
+<namaItem>6/DRAND GOLD MALT140</namaItem>
+<namaItem>PLASTIK BSR</namaItem>
+1 5800
+1 10300
+1 11500
+<subtotalItem>5.80</subtotalItem>
+<subtotalItem>10,300</subtotalItem>
+<subtotalItem>11,500</subtotalItem>
+<subtotalItem>8,200</subtotalItem>
+<subtotalItem>9,700</subtotalItem>
+1 8200
+1 9700
+1 1
+<subtotalItem>1</subtotalItem>
+DISKON
+(1)
+HARGA JUAL
+45.500
+TOTAL
+TUNAI:
+KEMBALI
+<totalPembayaran>45,500</totalPembayaran>
+50,000
+4,500
+LAYANAN KONSUMEN SMS 0811 1500 280
+CALL 1500 280 KONTAKOINDOMARET.CO.ID
+INFO PROMO ADD @INDOMARL I LINE

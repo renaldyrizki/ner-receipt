@@ -1,0 +1,14 @@
+Bon N177-504-210442Y3 Kasir NENG AME
+<namaItem>DELFI DM 27G</namaItem> 1 8,000 <subtotalItem>8,000</subtotalItem>
+Disc. -2,100
+<namaItem>HYDROCOCO 250ML</namaItem> 1 7.300 <subtotalItem>7,300</subtotalItem>
+Total Item 2 15,300
+Total Disc. 2,100
+Total Belanja <totalPembayaran>13, 200</totalPembayaran>
+Tunai 50, 000
+Kembalian 36,800
+PPN 1,327)
+Tgl. 21-04-2019 21:28:00 V.2019.1.0
++
+Kritik & Saran Hub. Telp. 1500959
+CS Sus 0817111234 www.alfamartku.com

@@ -1,0 +1,22 @@
+ALFAMART CIHARUGA
+081294658759
+CV OEZANK PRODUCTION
+J.TERUSAN GEGER KALONG HILIR NO.37.
+NPWP 02.761.044.3-421.000
+Bon N177-504-25044317 Kasir : NENG AME
+<namaItem>KP BRANDING M</namaItem> 1 200 <subtotalItem>200</subtotalItem>
+<namaItem>KIS APL 125G</namaItem> 1 8,600 <subtotalItem>8,600</subtotalItem>
+Disc. -3,600
+<namaItem>KIS CRY 125G</namaItem> 2 8,400 <subtotalItem>16,800</subtotalItem>
+Disc. --6,800
+<namaItem>PRONAS CB 50G</namaItem> 1 6,700 <subtotalItem>6,700</subtotalItem>
+<namaItem>SR SH CKT 49G</namaItem> 1 4,500 <subtotalItem>4,500</subtotalItem>
+Total ten 5 36,800
+Tctal Disc 10,400
+Total Belanja <totalPembayaran>26,400</totalPembayaran>
+Tunai 30,000
+Kenbalian 3,600
+PPN 3,082)
+Tal. 25-04-2019 06:38:19 V.2019.1.0
+Kritik&Saran Hub. Teip. 1500959
+Sns 0817111234 uww.alfanartku, com

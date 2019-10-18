@@ -1,0 +1,12 @@
+on N177-303-2504Z2H7 Kasir : TATI HAR
+<namaItem>P BRANDING S</namaItem> 1 200 <subtotalItem>200</subtotalItem>
+<namaItem>SEDAAP SOTO 75G</namaItem> 2 2,600 <subtotalItem>5,200</subtotalItem>
+<namaItem>EDAAP AYM 92G</namaItem> 1 2,500 <subtotalItem>2,500</subtotalItem>
+otal Item 3 <totalPembayaran>7,900</totalPembayaran>
+unai 7,900
+0
+enbalian
+) Nde 718)
+gl. 25-04-2019 21:38:58 V.2019.1.0
+Kritik& Saran Hub. Telp. 1500959
+Sms 0817111234 ww. al fanartku, con

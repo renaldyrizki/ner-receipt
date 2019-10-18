@@ -1,0 +1,19 @@
+ALFAMART CIWARUGA
+0815-85200617
+NPHP 02.761.044.3-421.0
+Bon N177-406-050687Z9 Kasir OK
+KP BRANDING M
+Disc. -1 11,500
+<namaItem>MYROTI THR 10S</namaItem> 1 <subtotalItem>11,530</subtotalItem>
+<namaItem>WALLS PP RBW55M</namaItem> 1 3,.500 <subtotalItem>3,500</subtotalItem>
+<namaItem>FF UHT K.HJUZ25</namaItem> 1 5,400 <subtotalItem>5,400</subtotalItem>
+Disc. -400
+Total Item 4 20,401
+Total Disc. 401
+Total Belanja <totalPembayaran>20,000</totalPembayaran>
+Tunai 20,000
+Keibal ian 0
+PPN 1,818)
+Tgl. 05-06-20 2:22:25 V.2018.4.7
+Kritik s o. Te 1S00959
+Sms ltanartku con

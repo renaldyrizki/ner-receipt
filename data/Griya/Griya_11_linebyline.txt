@@ -1,0 +1,21 @@
+TOSERBA GRIYA
+Jl. Kiaracondons 175 BANDUNG
+PT. AKUR PRATAMA
+NPUP:01.555.189.8-007.000
+JL.P.Revolusi 15 Jaktia
+http://wwu.toserbay0ya.com
+RP
+1.038X 20.950
+<namaItem>TELUR ,A NEGERI TBG</namaItem> <subtotalItem>21.746</subtotalItem>
+<namaItem>NISSIN GKKRRMPDS10%G</namaItem> <subtotalItem>5.500</subtotalItem>
+<namaItem>KRESEK HD 22 POLOS</namaItem> <subtotalItem>200</subtotalItem>
+Free 200-
+SUBTOTAL 27.246
+TOTAL <totalPembayaran>27.246</totalPembayaran>
+CASH 50.000
+CHANGE DUE 22.754
+TOTAL DIRECT DISC: 200
+NO. OF DISC. LINES: 1
+** TERIMA KASIH ATAS KUNJUNGAN ANDA
+Utk barang kena pajak Harga termasuk PPN
+Mc:13 39582 151426 18/08/18 18:42

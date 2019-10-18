@@ -1,0 +1,24 @@
+WAROENG GROUP
+. Prof. DR. Jr Sutami No.23, Satijaci, Sckasar
+Gegerkalong, Kota Bancung
+Telp. 0822-4252-0000
+http.//www.waroengsteakandshake.com
+Andri Sonjaya
+No. Order 21588-001-0028
+Kasir
+Paymert Ref
+Tgl/Jam 5/29/2019 7:00:01 PM
+No. Meja 31
+<namaItem>Sirloin Double</namaItem> 3 <subtotalItem>100,909</subtotalItem>
+<namaItem>Chicken Cordon Blue</namaItem> 1 <subtotalItem>29,090<//subtotalItem>
+<namaItem>Teh Maris</namaItem> 4 <subtotalItem>27,272</subtotalItem>
+Jumlah: 157,272
+Diskon:
+Voucher:
+Pajak 10%:
+15,727
+Kas Octlet Sutami Total: <totalPembayaran>172,999</totalPembayaran>
+190,000
+Bandurg (IDR):
+Kembali: 17.000
+TERIMA KASIH ATAS KUNJUNGAN AND

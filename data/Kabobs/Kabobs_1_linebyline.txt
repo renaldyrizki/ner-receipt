@@ -1,0 +1,15 @@
+A B B S
+PREMIM KEBAB
+Outet CiL K LT 3
+REG 28-03-2019 17:06
+ANG 000055
+<namaItem>Smoke Beef</namaItem> <subtotalItem>31, 818</subtotalItem>
+T X1 TA1 3 1, 818
+3, 18
+TL <totalPembayaran>666</totalPembayaran>
+CASH 50, 000
+CG 15, 001
+More Meat
+More Veggies
+More Fun
+Terima Kas ih

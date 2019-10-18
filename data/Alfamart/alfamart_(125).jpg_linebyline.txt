@@ -1,0 +1,39 @@
+JIS U8 4
+ALFAMART CIWARUGA
+081294658759
+CV OEZANK PRODUCTION
+JL.TERUSAN GEGER KALONG HILIR NO.37.
+NPWP 02,761.044.3-421.000
+D UP LI K AT
+on
+N177-303-2004ZVY9 Kasir TAT! HAR
+<namaItem>ONDS PINKISH50</namaItem>
+<namaItem>YB MASKARA BLK</namaItem>
+<namaItem>ZZI P.NIGHT 18</namaItem>
+<namaItem>P BRANDING S</namaItem>
+1
+1 20,200 <subtotalItem>20,200</subtotalItem>
+1 73,500 <subtotalItem>73,500</subtotalItem>
+1 10,000 <subtotalItem>10,000</subtotalItem>
+1 200 <subtotalItem>200</subtotalItem>
+1 43,000 <subtotalItem>43,000</subtotalItem>
+<namaItem>IVA P.ALIS COK</namaItem>
+<namaItem>TAMP RVKB MSK</namaItem>
+isc.
+-4
+nda mendapatkan
+tarp Fisik Alfanart RVKB Peralatan Masa
+Stamp Utama
+146,904
+otal Item
+6
+otal Disc.
+4
+200, 000
+53, 100
+otal Belanja <totalPembayaran>146,900</totalPembayaran>
+unai
+embalian
+PN
+13,355)
+gi. 20-04-2019 16:21:19 V.2019.1.0

@@ -1,0 +1,13 @@
+Bon N177-505-18049T3Z Kasir: RESTI FI
+<namaItem>KP BRANDING L</namaItem> 1 200 <subtotalItem>200</subtotalItem>
+<namaItem>SR THR SPC</namaItem> 1 12,000 <subtotalItem>12,000</subtotalItem>
+<namaItem>ICHITAN MT310ML</namaItem> 1 7,500 <subtotalItem>7,500</subtotalItem>
+Total Item 3 <totalPembayaran>19,700</totalPembayaran>
+Tunai 21,700
+Kerbal ian 2,000
+PPN ( 1,791)
+Tgi. 18-04-2019 16:13:42 V.2019.1.0
+t
+Kritik&Saran Hub. Telp. 1500959
+CS SiS 0817111234 www.alfamartku,com Scanned With CamScanner
+t

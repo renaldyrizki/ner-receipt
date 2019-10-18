@@ -1,0 +1,13 @@
+MAXX COFFEE
+Bandung Indah Plaza
+Customer: GEBRILIANA CHANDRA
+Cashier2: Sanny Mochamad Irpan
+Receipt#: 103 25/04/2019 14:47
+<namaItem>CARAMEL BELGIAN CHOC, HOT, M</namaItem>
+1 x 47,000 <subtotalItem>47,000</subtotalItem>
+TOTAL Rp <totalPembayaran>47,000</totalPembayaran>
+VOUCHER(#S@92631) Rp
+OVO **2631 Rp 47,006
+Card Owner: GEBRILIANA CHANDRA
+All Prices are Inclusive Tax 10%
+Thank You

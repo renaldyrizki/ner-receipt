@@ -1,0 +1,20 @@
+SANDUNG 4015i
+SARIMANAH 58-BANDUNG 02287775327
+09.04.19-12:21 2.1.42915140"EBBY Nyol
+<namaItem>LAY'S NORI SEAND 55G</namaItem> 1300 <subtotalItem>8,800</subtotalItem>
+<namaItem>SUPER BUBUR AYAM 45G</namaItem> 3300 <subtotalItem>3,300</subtotalItem>
+<namaItem>SPRITE PET 390 l.</namaItem> 14500 <subtotalItem>4.500</subtotalItem>
+<namaItem>GOOD DAY ERMELO 10'S</namaItem> 12700 <subtotalItem>12,70</subtotalItem>
+<namaItem>NESCAFE COFFE CRM200</namaItem> I 4800 <subtotalItem>4,800</subtotalItem>
+<namaItem>NESCAFE BLCCO 200</namaItem> 4800 <subtotalItem>4,800</subtotalItem>
+<namaItem>PLASTIK BSR</namaItem>
+DISKON
+HARGA JUAL 38,900
+CCCA COLA/PT. COCA COLA(200) ULA: ()
+TOTAL<totalPembayaran>38,700</totalPembayaran>
+TUNAI 50,000
+KEMBAII11,300
+ANDA HEMAT 200
+LAYANAN KONSUMEN SMS 0811 1500 280
+CALL 1500 280 KONTAKGINDOMARET CO.ID
+INPO PROMO: ADD INDOMARETDI IS

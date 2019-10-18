@@ -1,0 +1,18 @@
+PARIS VAN JAVA
+Jl.Sukajadi No 137-139
+. Bandung
+Telp. 022-82063505
+EAT IN
+2 <namaItem>Choconut Wfl Sundae</namaItem> <subtotalItem>24,546</subtotalItem>
+Sub Total 24,54E
+Dasar Pengenaan Pajak 24,546
+Pembulatan -1
+P.Rest 10 2,455
+Total <totalPembayaran>27,000</totalPembayaran>
+Cash 30,000
+Kembali 3,000
+Terima Kasih
+2 Items, 20042019-33278 22:25:03
+IRFAN MAULANA, POSO01, 20-04-2019
+DAPATKAN INFO LOHONGAN KFC
+DI karir.kfcku.com

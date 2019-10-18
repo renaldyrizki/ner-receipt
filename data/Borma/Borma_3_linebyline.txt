@@ -1,0 +1,14 @@
+Komp. Setrasari Hall II Kav.A-7 BDS
+02,244.696.7-441,000
+RORMA TOSERBA - Multimedia
+Phone 022-2038028
+PC:06KS/KASSA1
+0960261 <namaItem>DATA PRINT HP 28</namaItem>
+<subtotalItem>32,600</subtotalItem>
+Total <totalPembayaran>32600</totalPembayaran>
+Bayar 35,000
+Kembali 2400
+Barang Kena Pajak Sudab Termasuk PPN
+Fitri.Cl/464461. No/01.04.2019 12:07:34
+!TERIMA KASIH
+Kami senang Melayani ANDA

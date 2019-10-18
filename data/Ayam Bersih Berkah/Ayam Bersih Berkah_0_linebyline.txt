@@ -1,0 +1,25 @@
+AYAM
+BERSIH
+BERKAH
+Ayam Bersih Berkah Sarimanah Sarijadi
+J1. Sarimanah Raya No 6 Sarijadi, Bandung
+Receipt #: 1904000724
+Take Away
+Trx Date 13-04-2019 19:57
+Staff DINA NURHAYATI
+<namaItem>AYAM MERAH CRISPY SAYAP/PAHA BAWA</namaItem> <subtotalItem>9.000</subtotalItem>
+<subtotalItem>2.000</subtotalItem>
+Sub Total <totalPembayaran>11.000</totalPembayaran>
+<namaItem>+ AM-BAGIAN PAHA BAWAH</namaItem>
+<namaItem>1 SAMBAL TAICHAN</namaItem>
+Total
+Payment
+Cash
+11.000
+Change
+" Terima Kasih, Semoga Berkah"
+Hubungi Kami -
+0821 1370 0505 /0821 1370 0606
+*/Minimal Pesanan 10 Box
+Info Kemitraan: 0811 1077 800
+Powered by www.HelloBill.id

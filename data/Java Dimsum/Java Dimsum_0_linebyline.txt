@@ -1,0 +1,23 @@
+JAVA dimsum
+Jl.R.E.Martadinata No.174
+Bandung Kota, Jawa Barat
+Indonesia
+0816220635
+Waktu Penjualan Kasir
+Feb 17, 2019 15:25 Sarah
+#FDCA19021700005234 1 Tamu
+Item Jumlah
+DINE-IN (16)
+<namaItem>Siomay Seafood</namaItem>
+15.000 x1 <subtotalItem>15.000</subtotalItem>
+<namaItem>Hisit Kau</namaItem>
+15.000 x1 <subtotalItem>15.000</subtotalItem>
+<namaItem>Siomay Ayam Mozarella</namaItem>
+15.000 x1 <subtotalItem>15.000</subtotalItem>
+Subtotal 45.000
+Grand Total Rp <totalPembayaran>45.000</totalPembayaran>
+CASH Rp 100.000
+Kembalian Rp 55.000
+Terima Kasih
+ig :djavadimsum
+red by 01sera POS

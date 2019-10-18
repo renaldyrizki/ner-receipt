@@ -1,0 +1,36 @@
+PT. HARJA BUNATAMA LEBTAR
+eap. Setrasari Mall 11 Kav.A-7 BDG
+02.244.69.7-441.000
+BOAMA TOSERBA Pasir Iapu
+Phone022-727 5460
+PC:30P/ASSA A
+0452725 <namaItem>ROSE BRAND TERAS 200 GR</namaItem>
+<subtotalItem>12,900</subtotalItem>
+0610101 <namaItem>ROSE BRAND MINYAK GORENG</namaItem>
+#<subtotalItem>10,900</subtotalItem>
+0641246 <namaItem>SARIMI GORENG AYAH XECAP</namaItem>
+2 x
+<subtotalItem>3,000</subtotalItem>
+0500377 <namaItem>WE IXOH3-IXOH3</namaItem>
+<subtotalItem>4,400</subtotalItem>
+023005 <namaItem>F SULFUR SOAP DILY CARE</namaItem>
+<subtotalItem>19,300</subtotalItem>
+0022704 <namaItem>BIV SOAP G.TEA ALNOND 766</namaItem>
+<subtotalItem>i,900</subtotalItem>
+0022706 <namaItem>SIV SOAP W.LILY CHAMD 766</namaItem>
+<subtotalItem>,900</subtotalItem>
+0010149 <namaItem>LIFEBUDY SHP ANTI H.FALL</namaItem>
+<subtotalItem>15,000</subtotalItem>
+0144392 <namaItem>VIVA B.ON DU ND.2 4.3 GR</namaItem>
+<subtotalItem>27,000</subtotalItem>
+0150172 <namaItem>SISTER PUFF PITA B</namaItem>
+<subtotalItem>10,500</subtotalItem>
+0149298 <namaItem>PIXY LIP CRM l1 GAUDY ORA</namaItem>
+<subtotalItem>46,100</subtotalItem>
+Total <totalPembayaran>126,500</totalPembayaran>
+Bayar ,000
+Kembali 23,500
+Barang ena Paiak Sudah lermasuk PPN
+vivi.C1/21969.No/19.03.2019 20:45:41
+TERIMA KASIH
+ai senang nelayani AMDA

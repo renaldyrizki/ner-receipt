@@ -1,0 +1,16 @@
+ALFAMART CIWARUGA
+81294658759
+CV OEZANK PRODUCTION
+JLTERUSAN GEGER KALONG HILIR NO.37
+NPHP 02.761.044.3-421.000
+Bon N177-400-19049TU8 Kasir RIKI
+<namaItem>MENTOS SH 35G</namaItem> 1 20,800 <subtotalItem>20,800</subtotalItem>
+<namaItem>SAMPOERNA MRH16</namaItem> 2 23,600 <subtotalItem>47,200</subtotalItem>
+<namaItem>DUNHILL MLD N20</namaItem> 1 24,000 <subtotalItem>24,000</subtotalItem>
+Total Iten 3 <totalPembayaran>92,000</totalPembayaran>
+Tunai 100,000
+Kerbalian 8.000
+PPN 1,891)
+Tgl. 19-04-2019 09:03:17 V.2019.1.0
+Kritik&Saran Hub. Telp. 1500959
+cs Scanned with CamScanner A17111234 www.alfanartku.com

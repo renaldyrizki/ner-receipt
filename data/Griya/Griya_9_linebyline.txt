@@ -1,0 +1,27 @@
+TOSERBA GRIYA
+Jl. DR. DJUNDJUNAN 115 BANDUNG
+PT.AKUR PRATAMA
+NPWP: 01.555.18.8-007.000
+JL.P.Revolusi 15 Jaktim
+http://ww.toserbayogya.com
+Rp
+<namaItem>OISHI SPONGE COKLAT</namaItem> <subtotalItem>11.250</subtotalItem>
+<namaItem>INDOMILK CHOCOLATE1L</namaItem> <subtotalItem>15.350</subtotalItem>
+HERAN 13 RP.11650 3.700
+<namaItem>POCARI SWEAT 900 ML</namaItem> <subtotalItem>11.650</subtotalItem>
+<namaItem>EARERANDSTERL189 GR</namaItem> <subtotalItem>8.150</subtotalItem>
+<namaItem>OATBITS CHENNARLL110</namaItem> <subtotalItem>6.450</subtotalItem>
+<namaItem>YB RT PIZZA AYM 55GR</namaItem> <subtotalItem>7.500</subtotalItem>
+<namaItem>KRESEK HD 28 CETAK</namaItem> <subtotalItem>200</subtotalItem>
+Free 200-
+SUBTOTAL 56.650
+TOTAL <totalPembayaran>56.650</totalPembayaran>
+CASH
+60.000
+CHANGE DUE 3.350
+TOTAL DIRECT DISC: 3.900
+NO. OF DISC. LINES: 2
+** TERIMA KASIH ATAS KUNJUNGAN ANDA **
+Utk bar ang kena pajak harga termasuk PPW
+c:9 98495 162405
+23/03/19 16:12

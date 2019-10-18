@@ -1,0 +1,28 @@
+ALFAMART CIHARUGA
+081294658759
+CV OEZANK PRODUCTION
+JL. TERUSAN GEGER KALONG HILIR NO.37.
+NPWP 02.761.044.3-421.000
+Bon N177-505-110447Z7 Kasir RESTI FI
+<namaItem>KP BRANDING L</namaItem> 200 <subtotalItem>200</subtotalItem>
+<namaItem>AQUA 1500ML</namaItem> 2 6,700 <subtotalItem>13,400</subtotalItem>
+Disc. -200
+<namaItem>MY ROTI CNA235G</namaItem> 1 14,000 <subtotalItem>14,000</subtotalItem>
+<namaItem>SOKLIN PINK 900</namaItem> 1 11.600 <subtotalItem>11,600</subtotalItem>
+<namaItem>ALPEN ECL 144G</namaItem> 1 14,700 <subtotalItem>14,700</subtotalItem>
+Disc. -4,800
+<namaItem>MITU PINK 50</namaItem> 1 13,200 <subtotalItem>13,200</subtotalItem>
+<namaItem>FF PF CN 225ML</namaItem> 2 5,700 <subtotalItem>11,400</subtotalItem>
+<namaItem>NARAYA HHT 100G</namaItem> 1 13,800 <subtotalItem>13,800</subtotalItem>
+<namaItem>STELLA DF REDKI</namaItem> 1 14,900 <subtotalItem>14,900</subtotalItem>
+<namaItem>IZZI S.KISS 18</namaItem> 1 10,000 <subtotalItem>10,000</subtotalItem>
+STELLA DF REDKI -1 14,900 -14, 900
+<namaItem>STAMP RVKB MSK</namaItem> 3 <subtotalItem>3</subtotalItem>
+Disc. 3
+Anda mendapatkan
+Stamp Fisik Alfamart RVKB Peralatan Masa
+3 Stamp Utama
+Total Item 12 102,303
+Iotal Disc. 5,003
+intal Belanja <totalPembayaran>97,300</totalPembayaran>
+100,000

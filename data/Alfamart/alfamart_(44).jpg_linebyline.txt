@@ -1,0 +1,19 @@
+ALFAMART CIWARUGA
+0815-8520017
+NPWP : 02.761.044.3-421.0
+Bon N177-402-0807C4V8 Kasir DEVITA A
+KP BRANDING L 1
+Disc. -1
+<namaItem>SR KSR KJ 180G</namaItem> 1 15,000 <subtotalItem>15,000</subtotalItem>
+<namaItem>FF CKT 225ML</namaItem> 6,000 <subtotalItem>6,000</subtotalItem>
+<namaItem>FF COCONUT225ML</namaItem> 1 5,400 <subtotalItem>5,400</subtotalItem>
+<namaItem>SR CKT KJ</namaItem> 6,000 <subtotalItem>6,000</subtotalItem>
+Total Item 5 32,401
+Total Disc. 1
+Tutal Belanja <totalPembayaran>32,400</totalPembayaran>
+Tunai 40,000 7,600
+Kenbai ian
+PPN 2,945)
+Tgl. 08-07-2018 18:56:50 V.2018.4.7
+Kritik & Saran Hub. Teip. 1500959
+Sns 0817111234 www.alfanartku.com

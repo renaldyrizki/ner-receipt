@@ -1,0 +1,40 @@
+BORNA SUPERMARKET
+JA. SETIABUDHI 148
+Ph: 2035445-2032255
+07.04.2019
+PC:05SB/KASSA F
+0485151 <namaItem>TANGO LONG WAFER BUBLE</namaItem>
+10 1.700= $<subtotalItem>17.000</subtotalItem>
+0490254 <namaItem>MANASUKA R.LAUT PGG PE</namaItem>
+<subtotalItem>18.700</subtotalItem>
+0487301 <namaItem>OREO 29.4 GR</namaItem>
+12 <subtotalItem>e1.700</subtotalItem> =
+007b121 <namaItem>MULTI ROLL TOM-02</namaItem>
+*<subtotalItem>4.500</subtotalItem>
+0078972 <namaItem>SARI AYU KAPAS FACIAL</namaItem>
+<subtotalItem>.500</subtotalItem>
+0041656 <namaItem>SHINZUI B.SCR KIREI 12</namaItem>
+<subtotalItem>t8.900</subtotalItem>
+0191802 <namaItem>XDALA LABEL NO.110 109</namaItem>
+<subtotalItem>15.000</subtotalItem>
+0014062 <namaItem>SERASOFT SHP DANDRUFF</namaItem>
+$<subtotalItem>18.500</subtotalItem>
+0107632 <namaItem>NIVEA DEO R.ON INVISIB</namaItem>
+*<subtotalItem>12.500</subtotalItem>
+0140578 <namaItem>NARCKS BEDAK TABUR CRE</namaItem>
+$<subtotalItem>15.100</subtotalItem>
+0045203 <namaItem>MUST RATU MINYAX ZAITU</namaItem>
+<subtotalItem>17.400</subtotalItem>
+0738852 <namaItem>MOLTO EDP B.PURPLE ELG</namaItem>
+*<subtotalItem>5.200</subtotalItem>
+0146390 <namaItem>PURBASARI LIP CM ND.90</namaItem>
+<subtotalItem>33.200</subtotalItem>
+<totalPembayaran>74.900</totalPembayaran> ST
+1190.000 CA
+*15,100 CH
+LENI.C)/ 170738. No /18:2310
+BARANG XENA PAJAK SUDAH TERMASUK PPN
+4TERIMA KASIH
+PT HARJA GUNATAMA LESTARI
+Koap. Setrasari Nall II Kav. A-7, 8anduno
+02.244,696,7-441, 000

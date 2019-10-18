@@ -1,0 +1,17 @@
+MUJIGAE RESTO
+Cihampelas Walk Bandung
+Meja 24
+0 2018-0908 16:49:38
+<namaItem>ANNYEONG SET 5</namaItem> 1 47,000 47,000</subtotalItem>
+<namaItem>ANNYEDNG SET 6</namaItem> 1 47,000 47,000</subtotalItem>
+<namaItem>MATCHA MILK TEA  AS</namaItem> 1 19,000 19,000</subtotalItem>
+<namaItem>JEJU GRANGE TEA</namaItem> 1 16,000 16,000</subtotalItem>
+<namaItem>Fe CHEEZY CREAM</namaItem> 128,000 28,000</subtotalItem>
+Subtotal 157,000
+Services 7,850
+164,850
+Tax 16,485
+Total <totalPembayaran>181,335</totalPembayaran>
+Tunai 181,335
+Kembali 18,663
+TERIMA KASIH

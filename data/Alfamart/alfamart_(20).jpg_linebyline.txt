@@ -1,0 +1,21 @@
+MELONG RAYA 815-85463289
+PT.SUMBER ALFARA TRIJAYA, IBK
+ALFA TOWER LT. 12, ALAM SUTERA, TANGERANG
+NPHP 01.336.238.9-054.000
+Bon NO09-205-0610VX26 Kasir : MESA SIT
+A
+KP BRANDING S 1 1
+Disc. -1
+<namaItem>KUSUKA KJ 60G</namaItem> 1 5,800 <subtotalItem>5,800</subtotalItem>
+<namaItem>POP MIE A.BWG75</namaItem> 1 4,600 <subtotalItem>4,600</subtotalItem>
+<namaItem>KIMBO RD SP 69G</namaItem> 1 6,000 <subtotalItem>6,000</subtotalItem>
+<namaItem>CC CAL 10.5G</namaItem> 1 2,000 <subtotalItem>2,000</subtotalItem>
+Total Item 5 18,1
+Total Disc.
+Total Belanja <totalPembayaran>12,400</totalPembayaran>
+Tunai
+13,400
+Kenbalian
+PPN 1,673)
+06-10-2018 12:49: 14 8.7.3
+1ZI34

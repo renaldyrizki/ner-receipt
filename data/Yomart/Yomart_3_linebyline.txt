@@ -1,0 +1,20 @@
+YOMART SARIMANAH
+PT. GRIYA PRATAMA
+JL.TAMANKOPO INDAH 11 RT#11 RW.11
+MARGAASIH KAB.BANDUNG JAWA BARAT
+NPWP  02.526.132.2-441.000
+PENJUALAN 0432 00002 4589 14/04/19
+432311 16:07:20
+<namaItem>SUNLIGHT LIME R7</namaItem> 1 15,500 <subtotalItem>15,500</subtotalItem>
+<namaItem>GOOD DAY FRZMCSX</namaItem> 1 11,600 <subtotalItem>11,600</subtotalItem>
+<namaItem>INDOF0OD,EXT PDS</namaItem> 1 11,300 <subtotalItem>11,300</subtotalItem>
+<namaItem>TELUR AYM NEGERI</namaItem> 0.594 23,800 <subtotalItem>14,137</subtotalItem>
+<namaItem>PH MKRN RJK 2000</namaItem> 1 8,950 <subtotalItem>8,950</subtotalItem>
+<namaItem>INDOMIEMIKOCOKD</namaItem> 2 2,750 <subtotalItem>3,500</subtotalItem>
+<namaItem>INDOMIE AYAMSPPC</namaItem> 2 2,450 <subtotalItem>4,900</subtotalItem>
+<namaItem>BAGUS SKO BRUSW2</namaItem> 1 20,650 <subtotalItem>17,552</subtotalItem>
+disc toko 152( 1) 3,098
+9.594 QTY TOTAL <totalPembayaran>89, 439</totalPembayaran>
+TUNAI 100,000
+KEMBALI 10,561
+Anda Hemat: 3,098

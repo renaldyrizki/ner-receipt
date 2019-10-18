@@ -1,0 +1,21 @@
+CIPADUNG 081294657584
+PT.SUMBER ALFARIA TRIJAYA, TBK
+ALFA TOHER LT. 12, ALAM SUTERA, TANGERANG
+NPP 01.336.238.9-054.000
+Bon B033-700-02058D29 Kasir ROBBY NU
+<namaItem>GD MOC 250ML</namaItem> 1 6,900 <subtotalItem>6,900</subtotalItem>
+Disc. -1,000
+<namaItem>TOP X LRG 38G</namaItem> 1 4,200 <subtotalItem>4,200</subtotalItem>
+Disc. -1,300
+Total Item 11,100
+Total Disc. 2,300
+Sedekahku LazisNU 200
+Total Belanja <totalPembayaran>9,000</totalPembayaran>
+10,000
+1,000
+Tunai
+Kembalian
+PPN 964)
+Tgl. 02-05-2019 23:11:03 V.2019.4.0
++-
+KritikEaran:1500959. SMS: 0817111234

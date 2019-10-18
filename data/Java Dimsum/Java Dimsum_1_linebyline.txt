@@ -1,0 +1,25 @@
+JAVA dimsum
+Jl.R.E.Martadinata No.174
+Bandung Kota, Jawa Barat
+Indonesia
+0816220635
+Waktu Penjualan Kasir
+Apr 17, 2019 18:52 Veli
+#877019041700009331 2 Tamu
+Item Jumlah
+DINE-IN (15)
+<namaItem>Siomay Seafood</namaItem>
+15.000 X2 <subtotalItem>30.000</subtotalItem>
+<namaItem>Hisit Kau</namaItem>
+15.000 x1 <subtotalItem>15.000</subtotalItem>
+<namaItem>Kuotie</namaItem>
+15.000 x1 <subtotalItem>15.000</subtotalItem>
+<namaItem>Sweet Tea</namaItem>
+7.000 x2 <subtotalItem>14.000</subtotalItem>
+Subtotal 74.000
+Grand Total Rp <totalPembayaran>74.000</totalPembayaran>
+CASH Rp 100.000
+Kembalian Rp 26.000
+Terima Kasih
+ig :@javadimsum
+Powered by 0lsera POS

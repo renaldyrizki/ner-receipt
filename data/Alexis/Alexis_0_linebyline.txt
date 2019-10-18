@@ -1,0 +1,17 @@
+Al EXIS Outlet
+http://www.alexisoutlet.com/
+JB-IPB
+101802019CK0011
+11Mar2019 13:53:47
+(02.239.006.6-073.000)
+10800110 () Rp <subtotalItem>80,000</subtotalItem>
+<namaItem>SEPATU CASUAL 80 ALX</namaItem>
+X0000537 (1) Rp <subtotalItem>0</subtotalItem>
+<namaItem>KK KANTONG PLASTIK K</namaItem>
+Total Rp <totalPembayaran>80,000</totalPembayaran>
+(CA)
+Bayar Rp 80,000
+Kembali Rp 0
+(Include PPn)
+[Simpan Bukti Pembelian ini]
+Terma Kasih

@@ -1,0 +1,18 @@
+ALFAMART CIWARUGA
+081294658759
+CV OEZANK PRODUCTION
+JL. TERUSAN GEGER KALONG HILIR NO.37.
+NPWP 02.761.044.3-421.000
+Bon N177-504-2004T3H9 Kasir: NENG AME
+<namaItem>ANTANGIN JRG 15</namaItem> 1 3,400 <subtotalItem>3,400</subtotalItem>
+<namaItem>KOMIX LMN 4K15</namaItem> 1 10,000 <subtotalItem>10,000</subtotalItem>
+Disc. -1,500
+Total Item 2 13,400
+Total Disc. 1,500
+Total Belanja <totalPembayaran>11,900</totalPembayaran>
+Tunai 11,900
+Kembalian 0
+PPN 1,218)
+Tgl. 20-04-2019 21:02:47 V.2019.1.0
+Cs Sanned with Kritik&Saran Hub. Teip. 1500959
+Ss 0817111234 ww.alfanartku,com Cam Scanner

@@ -1,0 +1,20 @@
+WARUNK UPNORMAL
+CIHAMPELAS WALK
+Bandung - Jawa Barat
+04 Apr 2019 21:50:41
+P0188636 YUNI
+Order By YUNI
+DINE IN S0201265
+BAR
+1 <namaItem>TEH MANIS</namaItem> <subtotalItem>8,182</subtotalItem>
+1 <namaItem> MAMPUS GRG SPC</namaItem> <subtotalItem>13,636</subtotalItem>
+Subtotal 21,818
+PB1
+Total <totalPembayaran>24,000</totalPembayaran>
+CASH 24,000
+Total tem
+Total Qty
+2,181
+Dukung Brand Lokal
+Kebanggan Indonesia
+wiffi:kopigayonyaenak

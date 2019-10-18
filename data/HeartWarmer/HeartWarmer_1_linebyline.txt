@@ -1,0 +1,21 @@
+HEARIWARMER
+BSM
+Nomor FC/2019/1II/BSM/8046
+CUstomer Cash
+Tanggal 30/3/19 15:54:06
+Pembuat nira
+GHP1122P <namaItem>bell panda pth -htm K</namaItem>
+1 x 7,500 <subtotalItem>7.500</subtotalItem>
+JPTT372J2 <namaItem>lps mtf kpl pony</namaItem>
+8/2 (Buy 1 Get i)
+2 x 5.000
+CDisc 2.500) <subtotalItem>5.000</subtotalItem>
+KP8 kresek tosca no.1
+1 x O
+Total Qty
+Total Rp <totalPembayaran>12,500</totalPembayaran>
+Cash Rp 15,000
+Kembali :
+Rp 2,500
+BARANG YANG SUDAH DIEEU TIDAK DAPAT
+DITUKAR ATAU DIKEMBALIKAN

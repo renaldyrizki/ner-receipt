@@ -1,0 +1,29 @@
+ALFAMART CIWARUGA
+081294658759
+CV OEZANK PRODUCTION
+JL. TERUSAN GEGER KALONG HILIR NO.37.
+NPWP 02.761.044.3-421.000
+on N177-504-2104UY5Z Kasir : NENG AME
+<namaItem>MY ROTI CNA235G</namaItem>
+Disc. 1,000
+<namaItem>BUBURIA AYM 53G</namaItem>
+<namaItem>MYROTI SW PS96G</namaItem>
+1 14,000
+<subtotalItem>14,000</subtotalItem>
+1 3,600
+1 4,500
+<subtotalItem>3,600</subtotalItem>
+<subtotalItem>4,500</subtotalItem>
+Total Item 3 22,100
+1,000
+<totalPembayaran>21,100</totalPembayaran>
+21,100
+0
+Total Disc
+Total Belanja
+Tunai
+Kenbalian
+PPN(2,009)
+Tgi. 21-04-2019 20:53:09 V.2019.1.0
+Kritik&Saran Hub. Teip. 1500959
+Sms 0817111234 ww. alfamartku.com

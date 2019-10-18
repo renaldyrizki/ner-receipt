@@ -1,0 +1,21 @@
+PT. HARJA GUNATAMA LESTARI
+. Setrasari Mall II v.-7 BDG
+02.244.696.7-441.000
+BORMA TOSERBA - Pasir Impun
+Phone 022-7275460
+:30PI/KASSA S8
+0681556 <namaItem>LA FONTE FETTUCCINE 225 6</namaItem>
+<subtotalItem>7,400</subtotalItem>
+0503406 <namaItem>DELFI BIG THUNDER 366</namaItem>
+<subtotalItem>4,700</subtotalItem>
+0570734 <namaItem>PROCHIZ SPREADABLE 170 GR</namaItem>
+<subtotalItem>10,700</subtotalItem>
+0635231 <namaItem>PRONAS SAUS SPABHETI BOLO</namaItem>
+<subtotalItem>9,200</subtotalItem>
+Total <totalPembayaran>32000</totalPembayaran>
+Bayar 50,000
+Kembali 18,000
+Barang Kena Pajak Sudah Tereasuk PPN
+sonia.Cl/25436.No/26.03.2019 12:07:14
+(! TERIMA KASIH
+Kami senang melayani ANDA

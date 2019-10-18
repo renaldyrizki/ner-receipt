@@ -1,0 +1,15 @@
+ALFAMART CIWARUGA
+081294658759
+CV OEZANK PRODUCTION
+JL. TERUSAN GEGER KALONG HILIR NO.37.
+NPHP 02.761.044.3-421.000
+on N177-200-2104VM38 Kasir: SIDIQ FA
+<namaItem>TELA T.RWT 55G</namaItem> 1 8.000 <subtotalItem>8,000</subtotalItem>
+<namaItem>HITATO SP P55G</namaItem> 1 9,200 <subtotalItem>9,200</subtotalItem>
+Total Item 2 <totalPembayaran>17,200</totalPembayaran>
+Tunai 50,000
+Kenbalian 32,800
+PPN(1,564)
+al. 21-04-2019 19:36:31 V.2019.1.0
+Kritik& Saran Hub, Telp. 1500959
+CS Scanned with Cam Scann ner 111234 www.alfamartku.co

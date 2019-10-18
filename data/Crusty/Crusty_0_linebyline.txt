@@ -1,0 +1,10 @@
+CRUSTY
+GRAMEDIA
+REG 27-04-2019 11:19
+000003
+<namaItem>SIOMAY GR</namaItem> .<subtotalItem>15, 000</subtotalItem>
+TOTAL <totalPembayaran>15, 000</totalPembayaran>
+CASH .100, 000
+CHANGE 85, 000
+TERIMA KASI H
+SELAMAT MENIKMATI

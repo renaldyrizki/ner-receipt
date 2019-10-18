@@ -1,0 +1,19 @@
+ALFAMART CIWARUIGA
+081294658759
+CV 0EZANK PRODUCTION
+J.TERUSAN GEGER KALUNG HILIR NO, 37
+NPWP 02.761.044.3-421.000
+an N77-303-2704Z045 Kasir : TATI HAR
+<namaItem>SEDAAP G.AYM88G</namaItem> 1 2,500 <subtotalItem>2,500</subtotalItem>
+<namaItem>INDOMIE BHG 69G</namaItem> 12,30 <subtotalItem>2,300</subtotalItem>
+<namaItem>INDOMIE GPRKB5G</namaItem> 1 2,500 <subtotalItem>2,500</subtotalItem>
+<namaItem>KP BRANDING</namaItem> 200 <subtotalItem>200</subtotalItem>
+Total Item 4
+Tunai
+Kerbalian 2,500
+PN ( 682)
+<totalPembayaran>7,500</totalPembayaran>
+10,000
+Tgl, 27-04-2019 19:35:45V.2019.1.0
+Kritik &Saran Hb. leip. 150959
+081 7111 234 ww.alfanartku.cor

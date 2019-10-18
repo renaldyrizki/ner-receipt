@@ -1,0 +1,29 @@
+Setrasars. Nal)
+02.244.7
+PORMA TOSCREA
+a.A-7 00
+hane 022-2738416
+PC 2L2/ASSA 2
+0546223 <namaItem>ULTRA MILK STRANBERRY 250</namaItem>
+<subtotalItem>4,900</subtotalItem>
+0499610 <namaItem>RICHOCO MADAT CHICO NAFE</namaItem>
+<subtotalItem>54,000</subtotalItem>
+0075609 <namaItem>NICE SOT PACK 200 S</namaItem>
+<subtotalItem>17,700</subtotalItem>
+$060137 <namaItem>SENSODYNE SENSITIVE E.SOF</namaItem>
+<subtotalItem>14,000</subtotalItem>
+0487330 <namaItem>OREO ICE CREA.BERRY 13</namaItem>
+$<subtotalItem>7,500</subtotalItem>
+552630 <namaItem>602D DAY TINI MC.CINNO 10</namaItem>
+0485033 <namaItem>SERY SALUUT MALY S.CHEESE</namaItem>
+<subtotalItem>,300</subtotalItem>
+540597 <namaItem>INDOMIE MI KOCD BANDUNG</namaItem>
+<subtotalItem>2,400</subtotalItem>
+064023 <namaItem>INDOMIE SOTO PADANS 75</namaItem>
+<subtotalItem>12,200</subtotalItem>
+<namaItem>INDOMIE GORENS IGA PENVET</namaItem>
+Total <totalPembayaran>71,300</totalPembayaran>
+Byar 0,000
+emba 700
+Brang Kena Pajs Sudah Termasu fPN
+RT. C1392953 20:05:44

@@ -1,0 +1,20 @@
+Stcak Roso, Set iabudhi
+Jl set iabudhi no 148 cidada,p
+Waktu
+ID
+MID
+03:30 PM, 02 Apr 2019
+28-V392
+G310397245
+<namaItem>Dc 1</namaItem>
+013.500 <subtotalItem>13.500</subtotalItem>
+<namaItem>Dc 3</namaItem>
+1x 017.000 <subtotalItem>17,000</subtotalItem>
+Pajak 30.500
+<totalPembayaran>30.500</totalPembayaran>
+50.500
+Subtotal
+Total
+Tunai
+Kembalian
+20,000

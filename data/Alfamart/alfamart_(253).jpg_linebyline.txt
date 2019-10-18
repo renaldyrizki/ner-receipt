@@ -1,0 +1,24 @@
+ALFAMART CIWARUGA
+081294658759
+CV OEZANK PRODUCTION
+JL.TERUSAN GEGER KALONG HILIR NO.37
+NPWP 02.761.044.3-421.000
+N177-504-21044V62 Kasir : NENG AME
+<namaItem>KP BRANDING L</namaItem> 1 200 <subtotalItem>200</subtotalItem>
+<namaItem>ALFA TIS FRZ200</namaItem> 1 12,900 <subtotalItem>12,900</subtotalItem>
+Disc. -2,000
+<namaItem>MM NB STR 300ML</namaItem> 1 7,300 <subtotalItem>7,300</subtotalItem>
+Disc. -800
+<namaItem>GAGA GRG JLP85G</namaItem> 2 2,900 <subtotalItem>5,800</subtotalItem>
+Disc. -900
+Total Item 4 26,200
+Total Disc. 3,700
+<totalPembayaran>22,500</totalPembayaran>
+22,500
+Total Belanja
+Tunai
+Kembalian
+PPN 2,145)
+Tgl 21-04-2019 20:23:15 V.2019.1.0
+Kritik&Saran Hub. Telp. 1500959.
+alfatartku a

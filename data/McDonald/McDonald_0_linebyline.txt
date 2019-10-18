@@ -1,0 +1,23 @@
+L 1
+Your order number is
+McDonald's Setiabudhi 2er t
+PT.Rekso Nasional Food
+NPWP: 02.270.034.8-046.000
+Store #0313
+Crew id 44 SEINA HARANA S
+TAX INVOICE
+ORD #75 -REG #2-03/04/2019 20:40:28
+QTY ITEM TOTAL
+1 <namaItem>French Fries Regular</namaItem> <subtotalItem>10000</subtotalItem>
+1 <namaItem>McFlurry Choco</namaItem> <subtotalItem>10500</subtotalItem>
+Eat-In Tot (inc PAJAK) <totalPembayaran>20500</totalPembayaran>
+Cash Tendered
+Change
+50000
+29500
+Net Sales 18637
+PAJAK YANG BERLAKU 10% 1863
+Dapatkan penawaran khusus pembayaran
+Non Tunai di layanan pesan antar
+www.mcdelivery.co.id dan McDelivery App
+SK berlaku. Klik www.mcdonalds.co.id

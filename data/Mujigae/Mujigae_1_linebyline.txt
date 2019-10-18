@@ -1,0 +1,14 @@
+MUJIGAE ISTANA PLAZA
+Istana Plaza 1t.3
+Meja 99
+0 2018-11-29 15:23:35
+<namaItem>BULG0GI BIEIMBOUL DR</namaItem> 1 43,000 <subtotalItem>43,000</subtotalItem>
+<namaItem>YANGNYEOM CHICKEN TO</namaItem> 1 42,000 <subtotalItem>42,000</subtotalItem>
+<namaItem>KOREAN FRIED CHICKEN</namaItem> 1 28,000 <subtotalItem>28,000</subtotalItem>
+Subtotal 113,000
+Services 5,650
+118,650
+Tax 11, 865
+Total <totalPembayaran>130,515</totalPembayaran>
+Tunai 130,315
+TERIMA KASIH

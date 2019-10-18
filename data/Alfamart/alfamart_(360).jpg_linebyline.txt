@@ -1,0 +1,21 @@
+ALFAMART CIWARUGA
+081 294658759
+CV OEZANK PRODUCTION
+JLTERUSAN GEGER KALONG HILIR NO.37.
+NPHP 02.761.044.3-421.000
+Bon N177-504-20047654 Kasir : NENG AME
+<namaItem>KP BRANDING M</namaItem> 1 200 <subTotalItem>200</subTotalItem>
+<namaItem>GMP GULA 1KG</namaItem> 1 12,500 <subTotalItem>12,500</subTotalItem>
+Disc. -600
+<namaItem>ULTRA JSM 200ML</namaItem> 2 3,700 <subTotalItem>7,400</subTotalItem>
+Disc. -1,000
+Total Item 3 20,100
+Total Disc. 1,600
+Total Belanja <totalPembayaran>18,500</totalPembayaran>
+Tunai 18,500
+Kenbalian 0
+Ndd 655)
+Tgl. 20-04-2019 21:28:35 V.2019.1.0
+Kritik & Saran Hub. Telp. 1500959 mhed
+CS
+SHS 0817111234 www.alfamartku.com

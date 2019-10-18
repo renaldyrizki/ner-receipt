@@ -1,0 +1,13 @@
+Bon N177-504-2104UXK8 Kasir : NENG AME
+<namaItem>DJISAMSOE MM 16</namaItem> 1 15,900 <subtotalItem>15,900</subtotalItem>
+<namaItem>GF UHT CHO125ML</namaItem> 2 4,400 <subtotalItem>8,800</subtotalItem>
+Disc. -2,200
+Total Item 2 24,700
+Total Disc 2,200
+Total Belanja <totalPembayaran>22,500</totalPembayaran>
+Tunai 100,000
+Kerbalian 77,500
+PPN 691)
+Tgl. 21-04-2019 20:37:10 V.2019,1.0
+Kritik & Saran Hub. Telp. 1500959
+Sms 0817111234 Www.alfanartku.com

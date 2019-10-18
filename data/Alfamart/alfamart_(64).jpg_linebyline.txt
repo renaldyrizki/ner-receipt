@@ -1,0 +1,19 @@
+ALFAMART SARIMANAH
+081294659162
+CV. ALFA JAYA
+JLN.SARIMANAH NO.87 RT.004 RW.009 KEL. SA
+NPWP 71.247.176.2-428.000
+Bon N731-220-2104HDZ9 Kasir IS PRIA
+<namaItem>OISHI S.STR120G</namaItem> 1 12,500 <subtotalItem>12,500</subtotalItem>
+<namaItem>SOSRO ORI 330M</namaItem> 2 4,000 <subtotalItem>8,000</subtotalItem>
+Disc. -600
+<namaItem>KP BRANDING L</namaItem> 1 200 <subtotalItem>200</subtotalItem>
+Total Item 3 20, 700
+Total Disc. 600
+Total Belanja <totalPembayaran>20,100</totalPembayaran>
+Tunai 50,000
+Kerbalian 29,900
+PPN ,827)
+Tgi. 21-04-2019 11:08:33 V.2019.1.0
+Kritik & Saran Hub. Telp. 1500959
+Sms 0817111234 al fanartku, com

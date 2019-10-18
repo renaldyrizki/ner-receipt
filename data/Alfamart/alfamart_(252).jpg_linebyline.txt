@@ -1,0 +1,15 @@
+on N177-303-2704DZ9Z Kasir : TATI HAR
+<namaItem>ENTOS MNT 37G</namaItem> 1 4,500 <subtotalItem>4,500</subtotalItem>
+<namaItem>OCACOLA 390ML</namaItem> 1 4,500 <subtotalItem>4,500</subtotalItem>
+isc -200
+<namaItem>P BRANDING S</namaItem> 1 200 <subtotalItem>200</subtotalItem>
+otal Item 3 9,200
+otal Disc 200
+-otal Belanja <totalPembayaran>9,000</totalPembayaran>
+unai 10,000
+ebalian 1,000
+836
+PN (
+g1. 27-04-2019 20:18:30 V.2019.1.0
+Kritik& Saran Hub. Telp. 1500959
+Sms 0817111234 Www. alfanartku.com

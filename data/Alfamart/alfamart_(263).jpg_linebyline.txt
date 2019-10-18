@@ -1,0 +1,45 @@
+U P LI K A T
+****
+N177-200-2104VMC8 Kasir : SIDIQ FA
+<namaItem>P BRANDING L</namaItem> 200 <subtotalItem>200</subtotalItem>
+<namaItem>REBO KC OR 150</namaItem> 1 17,200 <subtotalItem>17,200</subtotalItem>
+isc. -1,200
+<namaItem>S NEO 350ML</namaItem> 1 23,800 <namaItem>23,800</namaItem>
+isc. -300
+<namaItem>TRA H ST125ML</namaItem> 2 3,900 <subtotalItem>7,800</subtotalItem>
+iSc. -1,900
+<namaItem>UPI KISS 45G</namaItem> 2 5,300 <subtotalItem>10,600</subtotalItem>
+<namaItem>TRA M CK125ML</namaItem> 3 3,900 <subtotalItem>11,700</subtotalItem>
+isc. -1,900
+<namaItem>HA2 TOYS 25G</namaItem> 2 18,500 3<subtotalItem>7,000</subtotalItem>
+<namaItem>NCFD TMT 275ML</namaItem> 1 9,400 <subtotalItem>9,400</subtotalItem>
+<namaItem>LNEH 15K</namaItem> 1 16,500 <subtotalItem>16,500</subtotalItem>
+<namaItem>TAMP RVKB MSK</namaItem> 4 1 <subtotalItem>4</subtotalItem>
+isc. -4
+nda mendapatkan
+tamp Fisik Alfarart RVKB Peralatan Masa
+Stamp Utama Starp Bonus
+otal Iten 10 134,204
+otal Disc 5,304
+otal Belanja <totalPembayaran>128,900</totalPembayaran>
+unai 150,000
+erbalian 21,100
+PN ( 11,900)
+gl. 21-04-2019 17:24:52 V.2019.1.0
+ukti Transaksi Voucher
+lu :404245 XL NEH 15K
+o Bon 200-2104VMC8
+ode Voucher 9
+pror Telepon: 0817619853
+o. Ref 701872898
+o. Bon : N177-200-2104VMC8
+anggal 2019-04-21 17:30:54
+ten (404245)E-VOUCHER XL NEH 15K
+SISON 0817619853
+: 15000
+oua
+erial 47790421872898
+tatus SUKSES
+Untuk keluhan/gangguan hubungi:
+17/021-57959817/Emailcustorerservice@xl
+Terina Kasih

@@ -1,0 +1,10 @@
+Bon N177-504-21044VY3 Kasir : NENG AME
+<namaItem>KP BRANDING S</namaItem> 1 200 <subtotalItem>200</subtotalItem>
+<namaItem>OBH COM BTK 60</namaItem> 1 14,200 <subtotalItem>14,200</subtotalItem>
+Total Item 2 <totalPembayaran>14,400</totalPembayaran>
+Tunai 15,000
+Kenbalian 600
+PPN ( 1,309)
+Tgl. 21-04-2019 18:52:59 V.2019.1.0
+Kritik& Saran Hub. Telp. 1500959
+STS 0817111234 wwH. alfarartku,co

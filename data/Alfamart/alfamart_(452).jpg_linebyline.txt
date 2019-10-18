@@ -1,0 +1,15 @@
+ALFAMART CIWARUGA
+81294658759
+CV OEZANK PRODUCTION
+JL.TERUSAN GEGER KALONG HILIR NO.37
+NPWP 02.761.044.3-421.000
+Bon N177-303-1904Z5X5 Kasir TATII HAR
+<namaItem>ONIGIRI CHC MY</namaItem> 1 9,000 <subtotalItem>9,000</subtotalItem>
+<namaItem>VIT PET 1500ML</namaItem> 1 6,200 <subtotalItem>6,200</subtotalItem>
+Total Iten 2 <totalPembayaran>15,200</totalPembayaran>
+Tunai 15,200
+Kenbalian 0
+PPN 1,382)
+Tgl. 19-04-2019 19:37:50 V.2019.1.0
+Kritik&Saran Hub. Telp. 1500959
+Sns 0817111234 Mw.al famartku.com

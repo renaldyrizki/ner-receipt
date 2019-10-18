@@ -1,0 +1,25 @@
+ALFAMART SUDIRMAN 01
+81294659216
+TIGA NANDA
+J. JEND.SUDIRMAN NO.01 RT.003 RW.015 BAR
+NPWP 74.784.161.7-421.000
+Bon N770-710-28066049 Kasir AYUNI PU
+<namaItem>ADEM S LMN350ML</namaItem> 1 7,800 <subtotalItem>7,800</subtotalItem>
+<namaItem>ALFA PC KML 75G</namaItem> 1 10,100 <subtotalItem>10,100</subtotalItem>
+Disc. -1,200
+<namaItem>P/SWEAT 500ML</namaItem> 1 7.000 <subtotalItem>7,000</subtotalItem>
+<namaItem>BIORE PORE BLK4</namaItem> 1 15,700 <subtotalItem>15,700</subtotalItem>
+<namaItem>KP BRANDING L</namaItem> 1 200 <subtotalItem>200</subtotalItem>
+5 40.800
+Total Belanja <totalPembayaran>1,200</totalPembayaran>
+Total Item
+Total Disc.
+Tunai
+Kenbalian
+PPN (3,600)
+3,600
+50.000
+0.400
+Tgl. 28-06-2019 20:45:21 V.2019.4
+Kritik & Saran Hub, Telp. 15009
+Sms 0817 alfatartku

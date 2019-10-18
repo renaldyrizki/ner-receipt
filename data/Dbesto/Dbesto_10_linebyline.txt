@@ -1,0 +1,16 @@
+D BESTO
+CHICKEN& BURGER
+JL SARIMANAH BLOK6 NO. 78
+BANDUNG
+Wa 083829148665 Cendri
+WA 082130504767 Rendi
+REG 03-05 2019 12:33
+Risda R 000055
+<namaItem>SADAS TA</namaItem> .14,500 <subtotalItem>4, 500</subtotalItem>
+TL <totalPembayaran>19, 000</totalPembayaran>
+CASH .20, 000
+CG 1, 000
+TERIMA KASIH
+SELAMAT DATANG KEMBAL1
+Harga Sudabh Termasuk
+PB1 10%

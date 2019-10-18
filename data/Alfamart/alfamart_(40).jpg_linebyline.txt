@@ -1,0 +1,39 @@
+CV OEZANK
+JL. TERUSAN GEGER KALONG HILIR NO.37.
+NPWP 02.761.044.3-421.000
+Bon N177-505-2604C6K4 Kasir: RESTI F
+1 200 <subtotalItem>200</subtotalItem>
+1 61,500 <subtotalItem>61,500</subtotalItem>
+<namaItem>KP BRANDING L</namaItem>
+<namaItem>ROYAL BTR CKS48</namaItem>
+-9,000
+Disc.
+1 36,500 <subtotalItem>36,500</subtotalItem>
+<namaItem>HOLLANDA CKS225</namaItem>
+6,600
+Disc.
+<namaItem>ABC CPND 485ML</namaItem>
+-6,000
+1 20,500 <subtotalItem>20,500</subtotalItem>
+Disc.
+STAMP RVKB MSK
+Disc.
+3
+1
+3
+-3
+Anda mendapatkan
+Stamp Fisik Alfanart RVKB Peralatan Masa
+3 Stamp Utama
+Total item 5 118,703
+Total Disc. 21,603
+Total Belanja <totalPembayaran>97,100</totalPembayaran>
+Tunai 100,000
+Kembalian 2,900
+PPN
+10,300)
+Tgl. 26-04-2019 18:16:32 V.2019.1.0
+Lengkapi Gambar Berhadiah
+Kode Gambar G
+Hadiah (ALBI 500rb,Lengkap 5.t)
+Kode Unik CF9239AC4B

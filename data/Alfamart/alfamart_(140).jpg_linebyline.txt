@@ -1,0 +1,17 @@
+ALFAMART CIHARUGA
+081294658759
+CV OEZANK PRODUCTION
+J.TERUSAN GEGER KALONG HILIR NO.37
+NPHP 02.761.044.3-421.000
+Bon N177-303-1904Z5X9 Kasir : TATI HAR
+<namaItem>MITU PINK 50</namaItem> 1 13,200 <subtotalItem>13,200</subtotalItem>
+<namaItem>BIOGESIC 4S</namaItem> 1 2,200 <subtotalItem>2,201</subtotalItem>
+<namaItem>KP BRANDING S</namaItem> 1 200 <subtotalItem>200</subtotalItem>
+<namaItem>PASEO TRAVEL 70</namaItem> 1 6,400 <subtotalItem>6,400</subtotalItem>
+Total Item 4 <totalPembayaran>22,000</totalPembayaran>
+Tunai 22,000
+Kembalian 0
+PPN 2,000)
+Tgl. 19-04-2019 19:44:19 V.2019.1.0
+Kritik& Saran Hub. Telp. 1500959
+Sos 0817111234 www.alfanartku.com

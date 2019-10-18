@@ -1,0 +1,13 @@
+HEPI
+Hemat Pisan :)
+J1. Kopo Sayati no.158 Bandung
+<namaItem>JAM MEJA (E0629)</namaItem>
+1x 18,000 <subtotalItem>18,000</subtotalItem>
+<namaItem>BATRE KDX 2A 70424)</namaItem>
+1x 1
+GRAND TOTAL <totalPembayaran>18,001</totalPembayaran>
+PEMBAYARAN 50,000
+KEMBALI 31,999
+Farang yang sudeh diheli tidak
+dapat ditukar/dikenbalikan.
+kasirl 14-07-2017 14:50:54

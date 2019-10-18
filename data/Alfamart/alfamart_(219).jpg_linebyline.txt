@@ -1,0 +1,39 @@
+ALFAMART CIWARUGA
+81294658759
+CV OE7ANK PRODUCTION
+JL. TERUSAN GEGER KALONG HILIR NO.37.
+NPWP 02.761.044.3-421.000
+Bon N177-505-2104CHV4 Kasir: RESTI FI
+<namaItem>KP BRANDING L</namaItem> 200 <subtotalItem>200</subtotalItem>
+<namaItem>TICZ GRLC 70G</namaItem> 1 7,100 <subtotalItem>7,100</subtotalItem>
+Disc. 600
+<namaItem>POTABEE CHS 65G</namaItem> 2 10,700 <subtotalItem>21, 400</subtotalItem>
+Oisc. -3,400
+<namaItem>FRENCHFRIES 68G</namaItem> 1 7,300 <subtotalItem>7,300</subtotalItem>
+<namaItem>KA KP SPC 165G</namaItem> 1 12,400 <subtotalItem>12,400</subtotalItem>
+<namaItem>IM PUTIH 560G</namaItem> 1 14,500 <subtotalItem>14,500</subtotalItem>
+<namaItem>KARA SUN PHD20G</namaItem> 2 2,600 <subtotalItem>5,200</subtotalItem>
+Disc. -1,700
+<namaItem>NTRJL KLP 15G</namaItem> 2 5.800 <subtotalItem>11,600</subtotalItem>
+<namaItem>WLS CNT DC120ML</namaItem> 1 1l1,000 <subtotalItem>11,000</subtotalItem>
+<namaItem>STAMP RVKB MSK</namaItem> 3 1 <subtotalItem>3</subtotalItem>
+Disc. -3
+<namaItem>ICHI GT 450ML</namaItem> 2 6,200
+Disc. -7,400
+<subtotalItem>12,400</subtotalItem>
+<namaItem>CADBURY CSH 30G 8,700 <subtotalItem>8,700</subtotalItem>
+Anda mendapatkan
+Stamp Fisik Alfarart RVKB Peralatan Masa
+3 Stamp Utama
+Total Item 12 11,803
+Total Oisc 13,103
+Totai Belanja <totalPembayaran>98, 700</totalPembayaran>
+Tunai 98,700
+Kembalian
+PPN 9,918)
+Tsi. 21-04-2019 10:18:29 V.2019.1.0
++--
+Lengkapi Gambar Berhadiah
+Kode Gambar: J
+Hadiah (ALBI 50urb, Lengkap 5jt)
+Kode Unik : DE2789831C

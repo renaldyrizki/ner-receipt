@@ -1,0 +1,19 @@
+PT. PANCA TOKMA LESTARI
+Komp. Setrasari Mall B-2 No,18 Lt,2
+31.782.778.0-428,000
+TOKMA TOSERBA - CADIKA
+Phone 0260-4242224
+PC:21CDK/KASSA 4
+0546212 <namaItem>ULTRA MILK PLAIN 200 NL</namaItem>
+*<subtotalItem>4 ,100</subtotalItem>
+0610621 <namaItem>FILMA MARBARINE 200 GR SA</namaItem>
+*<subtotalItem>4,500</subtotalItem>
+0570731 <namaItem>PROCHIZ CHEDDAR 170 GR</namaItem>
+<subtotalItem>17,000</subtotalItem>
+Total <totalPembayaran>25,600</totalPembayaran>
+Bayar 30,000
+Kembali 4,400
+Barang Kena Pajak Sudah Termasuk PPN
+wina.Cl/47756.No/07.04.2019 12:57:12
+(!) TERIMA KASIH
+Kami senang melayai ANDA

@@ -1,0 +1,20 @@
+AL.FAMART CIWARUGA
+081294658759
+CV OEZANK PRODUCTION
+JL. TERUSAN GEGER KALONG HILIR NO.37.
+NPWP 02.761.044.3-421.000
+Bon N177-504-17047TK6 Kasir NENG AME
+<namaItem>KP BRANDING H</namaItem> 1 200 <subtotalItem>200</subtotalItem>
+<namaItem>KA SPC MIX 10S</namaItem> 1 12,500 <subtotalItem>12,500</subtotalItem>
+<namaItem>GD CRML 10S</namaItem> 1 12,700 <subtotalItem>12,700</subtotalItem>
+<namaItem>SAMPOERNA A ORI</namaItem> 2 27,800 <subtotalItem>55,600</subtotalItem>
+<namaItem>DJISAMSOE 12</namaItem> 1 18,000 <subtotalItem>18,000</subtotalItem>
+<namaItem>DJARUM BLD 20</namaItem> 1 23,900 <subtotalItem>23,900</subtotalItem>
+Total Item 6 <totalPembayaran>122, 900</totalPembayaran>
+Tunai 125,000
+Kenbalian 2,100
+PPN 2,309)
+Tgl. 17-04-2019 10:33:49 V.2019.1.0
++--
+Kritik& Saran Hub. Telp. 1500959
+esSTS 0817111234 www.alfamartku.com

@@ -1,0 +1,11 @@
+GPREK REMPAH
+BUNI PANYILEUKAN BLOK D4 NO 6
+H175514 11/04/2019
+01 CLERKO1 000000
+1x 16000 RF <subtotalItem>16000</subtotalItem>
+<namaItem>P gpk rea R</namaItem>
+SUBTOTAL Rp. <totalPembayaran>16000</totalPembayaran>
+ITEMS 10
+CASH RP. 16000
+TERIMA KASIH
+08531413300

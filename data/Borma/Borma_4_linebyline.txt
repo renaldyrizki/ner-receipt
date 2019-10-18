@@ -1,0 +1,20 @@
+BORMA ANTAPANI
+JL.Ters Jakarta.53a
+Phone: (022)7272000
+03.05.2019
+PC:1IAN/KASSA5
+8895352 <namaItem>KACA EAGLE BESAR B-086</namaItem>
+<subtotalItem>64.500</subtotalItem>
+8881903 <namaItem>KESET TALI ANYAM B (TS</namaItem>
+<subtotalItem>11.000</subtotalItem>
+8300006 <namaItem>JEPITAN BAJU FANCY WAR</namaItem>
+2 X 15.000 <subtotalItem>130.000</subtotalItem>
+*<totalPembayaran>105.500</totalPembayaran> ST
+*105.500 CA
+0 CH
+TIARA.CI32205, No16:45:40
+( BARANG KENA PAJAK SUDAH TERMASUK PPN
+<!) TERIMA KASIH
+--PT HARJA GUNATAMA LESTARI
+Koep. Setrasari Mall II Kav.A-7, Bandung
+02.244.696.7-441.000

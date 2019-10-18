@@ -1,0 +1,22 @@
+Bon N177-303-19042634 Kasir : TATI HAR
+<namaItem>QTELA S.BLD 60G</namaItem> 1 6,400 <subtotalItem>6,400</subtotalItem>
+<namaItem>KJ CLP HJ 25S</namaItem> 1 13,900 <subtotalItem>13,900</subtotalItem>
+<namaItem>SM PMN TA 5S</namaItem> 1 2,500 <subtotalItem>2,500</subtotalItem>
+<namaItem>LB MILD 100</namaItem> 1 11,500 <subtotalItem>11,500</subtotalItem>
+<namaItem>PCOLD FLU 6</namaItem> 1 3,600 <subtotalItem>3,600</subtotalItem>
+<namaItem>KP BRANDING M</namaItem> 1 200 <subtotalItem>200</subtotalItem>
+<namaItem>STAMP RVKB MSK</namaItem> 1 1 <subtotalItem>1</subtotalItem>
+Disc. -1
+Anda mendapatkan
+Stanp Fisik Alfanart RVKB Peralatan Masa
+1 Stanp Utama
+Total Item 7 38, 101
+Total Disc.
+Total Belanja <totalPembayaran>38,100</totalPembayaran>
+Tunai 50, C00
+Kerbalian 11,00
+PPN 3,464)
+1
+Tgi, 19-04-2019 18:56:03 V.2019.1.0
+Scanned
+CamScanner

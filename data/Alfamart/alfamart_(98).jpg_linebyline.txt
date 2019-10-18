@@ -1,0 +1,31 @@
+ALFAMART CIWARUGA
+022-2001649
+NPWP 02.761.044.3-421.0
+Bon N177-200-31037DX Kasir INDR
+<namaItem>KANTONG PLS L</namaItem> 1 <subtotalItem>1</subtotalItem>
+Disc. -1
+<namaItem>SARI THR PND 37</namaItem> 1 13,500 <subtotalItem>13,500</subtotalItem>
+Disc. -1,500
+<namaItem>MY ROTI CKT PSG</namaItem> 1 4,500 <subtotalItem>4,500</subtotalItem>
+<namaItem>FITBAR CHOCO 24</namaItem> 1 4,500 <subtotalItem>4,500</subtotalItem>
+Disc. -300
+<namaItem>PASEO TIS MINI</namaItem> 1 4,900 <subtotalItem>4,900</subtotalItem>
+Disc. -700
+<namaItem>LAURIER SR. NGHT</namaItem> 2 10,200 <subtotalItem>20, 400</subtotalItem>
+<namaItem>MITU WIP A. SEPT</namaItem> 1 18,800 <subtotalItem>18,800</subtotalItem>
+<namaItem>WALL'S CNT RM</namaItem> 1 1 9,500 <subtotalItem>9,500</subtotalItem>
+Disc. -3,200
+<namaItem>STAMP ROYALVKB</namaItem> 2 <subtotalItem>2</subtotalItem>
+Disc. -2
+Anda mendapatkan
+Starp Fisik Alfanart VKB Cookware
+2 Stamp Utama
+Total Item 9 76,103
+Total Disc. 5,703
+Total Belanja <totalPembayaran>70,400</totalPembayaran>
+Tunai 100,000
+Kenbalian 29,600
+PPN 6,645)
+Tgi. 31-03-2017 20:37:53 V.2017.1.3
+Kritik & Saran Hub. Telp. 1500959
+Sns 0817111234 www.alfamartku.com

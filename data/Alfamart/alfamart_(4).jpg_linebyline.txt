@@ -1,0 +1,19 @@
+ALFAMART CARUGA
+0815-85200617
+NPHP: 02.761.044.3-421.0
+Bon N177-503-050724D6 Kasir RIKI
+KP GRANDING L
+Disc. -1
+<namaItem>CHARM NIGHT 12P</namaItem> 1 17,200 <subtotalItem>17,200</subtotalItem>
+<namaItem>LAURIER 35CM 6P</namaItem> 1 10,200 <subtotalItem>10,200</subtotalItem>
+<namaItem>MITU HP PINK 50</namaItem> 1 13,200 <subtotalItem>13,200</subtotalItem>
+<namaItem>ALFA TIS 200</namaItem> 1 5,900 <subtotalItem>5.900</subtotalItem>
+Total item 46,501
+Total Disc.
+Total Belanja <totalPembayaran>46,500</totalPembayaran>
+Tunai 100,000
+Kenbal 53,500
+PPN 4,227)
+Tgl. 05-07-2018 12:49:54 V.2018.4.7
+Kritik & Saran Hub. Teip. 1500959
+Sms 0217111234 www.alfanartku con

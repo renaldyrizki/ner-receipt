@@ -1,0 +1,19 @@
+HEARTYWARMER
+cWK
+Nomor : FC/2019/V/C/0139
+Customer Cash
+.Tanggal 1/5/19 13:28:13
+Pembuat NURI
+CRM40002 <namaItem>10.3x14 bbk sally+1kt</namaItem>
+2 15.000 <subtotalItem>30,000</subtotalItem>
+GK762K2 <namaItem>krt krs brown gemuk Tg</namaItem>
+1 12,500 <subtotalItem>12.500</subtotalItem>
+KP9 kresek tos ca no.2
+STNT418 <namaItem>chai tea</namaItem>
+3 2,500 <subtotalItem>8.500</subtotalItem>
+Total gty
+Rp <totalPembayaran>51,000</totalPembayaran>
+Cash : Rp 102,000
+CamScanner Rp 91,000
+Total
+CS Scanned-with

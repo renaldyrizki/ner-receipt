@@ -1,0 +1,23 @@
+PT.SUMBER ALFARIA TRIJAYA, TBK
+ALFA TOWER LT. 12, ALAM SUTERA, TANGERANG
+NPHP 01.336.238.9-054.000
+. AH NASUTION KM 7 NO. 19 ARCAMANIK
+Bon B741-388-22032WV6 Kasir : AJENG KO
+<namaItem>KP BRANDING L</namaItem> 1 200 <subtotalItem>200</subtotalItem>
+<namaItem>SARIMIZ DOK120G</namaItem> 2 3,300 <subtotalItem>6,600</subtotalItem>
+Disc. -1,300
+<namaItem>SARIMI2 KCP126G</namaItem> 2 3,900 <subtotalItem>7,800</subtotalItem>
+<namaItem>ROYCO SK AYM58G</namaItem> 1 10,200 <subtotalItem>10,200</subtotalItem>
+<namaItem>ALFA COT R R100</namaItem> 4,900 <subtotalItem>4,900</subtotalItem>
+Total Iter 5 29,700
+iotal Disc. 1,300
+JUNAS IKU SEMBAKO CRATIS 100
+otal Belanua <totalPembayaran>28.500</totalPembayaran>
+d! 40,000
+erbalian 11,500
+PN 2,691)
+Pal 22-03-2019 :0:43 V.2019.1.0
+ber RISTANt GINAST LLAI FIXRISTIA
+POIN KARTU PGNTA ANDA 2636
+Selanatin Ponta Ana Bertanbah 122
+itikiarn: SMS: 0817111234

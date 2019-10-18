@@ -1,0 +1,24 @@
+PAYMENT
+KIRI RESTO
+Ji. Sumur Bandung No.14
+Pay No 1903.01736
+Meja 2*16
+Customer Cust. Umum
+Tanggal 31 Mar 2019/20:33
+Kasir Aris
+Vaiter : KENNY
+Pembayaran Cash
+<namaItem>Onion Ring</namaItem>
+29.000 <subtotalItem>29.000</subtotalItem>
+<namaItem>Pokka Green Tea</namaItem>
+25 000 <subtotalItem>25 000</subtotalItem>
+Subtotal 54.000
+Discount
+Subtotal Disc
+PB1 5.400
+Service
+Total <totalPembayaran>62.100</totalPembayaran>
+54.000
+2.700
+Bayar 100.000
+37.900

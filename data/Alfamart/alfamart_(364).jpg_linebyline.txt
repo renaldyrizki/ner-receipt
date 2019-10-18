@@ -1,0 +1,20 @@
+ALFAMART CIWARUGA
+081294658759
+CV OEZANK PRODUCTION
+JL.TERUSAN GEGER KALONG HILIR NO.37
+NPWP 02.761.044.3-421.000
+Bon N177-504-2104UXK4 Kasir NENG AME
+<namaItem>KP BRANDING S</namaItem> 1 200 200 <subtotalItem>270</subtotalItem>
+<namaItem>FRESTEA MR350ML</namaItem> 1 4,000 <subtotalItem>4,000</subtotalItem>
+<namaItem>BENG2 CKT 22G</namaItem> 1 2.600 <subtotalItem>2,600</subtotalItem>
+<namaItem>GAGA GRG JLP85G</namaItem> 2 2,900 <subtotalItem>5,800</subtotalItem>
+Disc. -900
+Total Item 4 12,600
+Total Disc. 900
+Total Belanja <totalPembayaran>11,700</totalPembayaran>
+Tunai 20,000
+Kembalian 8,300
+PPN 1,118)
+Tgl. 21-04-2019 20:32:21 V.2019.1.0
+Kritik & Saran Hub. Telp. 1500959
+CScanned with Sus 0817111234 www, alfamartku.com

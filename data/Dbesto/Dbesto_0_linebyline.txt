@@ -1,0 +1,19 @@
+(d'BestC ehien&burger
+Resto Ciwaruga
+J1. Civaruga No. 2 Parongpong Bandung
+082154744978
+No ED1967975
+Date 19-04-2019 18:53
+Kasir : arnies1
+<namaItem>Sadas Paha Bawah TA</namaItem>
+12.000 x <subtotalItem>12.000</subtotalItem>
+<namaItem>Nasi TA</namaItem>
+4.500 x 1 <subtotalItem>4.500</subtotalItem>
+<namaItem>Paket Lubis 2 P.Atas TA</namaItem>
+15.500 x <subtotalItem>15.500</subtotalItem>
+Rp <totalPembayaran>32.000</totalPembayaran>
+BAYAR RP 50.000
+TUNAI RP 18.000
+TERIMA KASIH
+IG: official.dbesto FB: OfficialDbesto
+www.dbesto.co.id

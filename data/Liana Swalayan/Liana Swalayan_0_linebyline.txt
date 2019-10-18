@@ -1,0 +1,30 @@
+LIANA SWALAYAN
+JL. GEGERKALONG HILIR NO. 175 177
+TELP. 2003260 FAX. 2003281
+BANDUNG
+Id:CS08 Pc: 0004
+Friday 12-04-2019 12:38:52
+12:38:52
+3502354 <namaItem>TAS BELANJA BESAR/namaItem> <subtotalItem>4,000</subtotalItem>
+9992388133345 <namaItem>NU TEH TARIK 330 ML</namaItem>
+4 X 5,800 <subtotalItem>23,200</subtotalItem>
+9993296210005 <namaItem>TERIGU SG3 BR EK</namaItem> 1 <subtotalItem>9,700</subtotalItem>
+8992760221028 <namaItem>OREO SAND VAN 137 G</namaItem>
+4 X 7,800 <subtotalItem>31,200</subtotalItem>
+1000377 <namaItem>SK CABE KRTING MER</namaItem> <subtotalItem>7,200</subtotalItem>
+8991002109339 <namaItem>CEREMIX F.VAN 30G</namaItem> <subtotalItem>6,000</subtotalItem>
+8992742360455 <namaItem>POLYTEX,SB SPON AN</namaItem> <subtotalItem>6,000</subtotalItem>
+8992933453119 <namaItem>ANGET SARI SACH 28</namaItem> <subtotalItem>5,200</subtotalItem>
+1000343 <namaItem>SK KICINIS</namaItem> <subtotalItem>4,800</subtotalItem>
+1000087 <namaItem>GULA AREN KG</namaItem> 
+0.069 X 21,900 <subtotalItem>15,110</subtotalItem>
+SUBTOTAL 112,410
+TOTAL <totalPembayaran>112,410</totalPembayaran>
+Ke bali Cash 120,000
+RCV:52 7,590
+16 Itens
+BARANG KENA PAJAK SUDAH TERMASUK PPN
+PT. LIANA
+02.244.388.1-428.000
+Terina Kasih atas Kunjungan Anda
+Brg yg sdh dibeli tdk dpt dikembalikan

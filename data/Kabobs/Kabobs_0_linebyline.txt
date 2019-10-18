@@ -1,0 +1,16 @@
+Terima Kasih
+K A B 0 B S
+PREMIUM KEBAB
+Outlet BEC LT 3
+REG 05-04 2019 17:32
+000100
+1 <namaItem>Supreme</namaItem> <subtotalItem>30,000</subtotalItem>
+TA1 30, 000
+TX 1 3, 000
+TL <totalPembayaran>33. 000</totalPembayaran>
+CASH 50, 000
+CG .17.000
+More Meat
+More Veggies
+More Fun
+Terima Kasih

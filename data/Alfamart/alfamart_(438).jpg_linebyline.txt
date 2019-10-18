@@ -1,0 +1,10 @@
+Bon N177-303-1904Z5Z7 Kasir TATI HAR
+<namaItem>ESSE CHG 20</namaItem> 1 22,500 <subtotalItem>22,500</subtotalItem>
+Total Item 1 <totalPembayaran>22,500</totalPembayaran>
+Tunai 22,500
+Kenbalian O
+PPN 0)
+Tgl. 19-04-2019 20:16:19 V.2019.1.0
++--
+Kritik& Saran Hub. Teip. 1500959
+csScanned with CamScanner /111234 www.alfanartku.com

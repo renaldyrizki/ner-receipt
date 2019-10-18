@@ -1,0 +1,21 @@
+ALFAMART CIHARUGA
+081294658759
+CV OE7ANK PRODUCTION
+L. TERUSAN GEGER KAL ONG HILIR NO.37.
+NPWP 02.761.044.3-421.000
+Bon N177-400-1904HUY3 Kasir RIKI
+<namaItem>KP BRANDING L</namaItem> 1 200 <subtotalItem>200</subtotalItem>
+<namaItem>TIC2 GRLC 70G</namaItem> 2 7,100 <subtotalItem>14,200</subtotalItem>
+Disc. -3,200 <subtotalItem>5,100</subtotalItem>
+<namaItem>PEPSI BL 450ML</namaItem> 1 5,100
+<namaItem>NPL AIR 600ML</namaItem> 1 3,700 <subtotalItem>3,700</subtotalItem>
+<namaItem>SIDOMNCL 15</namaItem> 1 4,500 <subtotalItem>4,500</subtotalItem>
+Total Item 5 27,700
+Total Disc. 3,200
+Total Belanja <totalPembayaran>24,500</totalPembayaran>
+Tunai 100,000
+Kerbalian 75,500
+PPN ( 2,409)
+1gl. 19-04-2019 12:35:48 V.2019.1.0
+Kritik&Saran Hub. Teip. 1500959
+Sns 0817111234 www, alfanartku.con
